@@ -1,0 +1,960 @@
+[
+    {
+        "date": 1682874000000,
+        "localDate": "1 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/1Mei.html",
+        "name": "St. Yusuf Pekerja",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis11:1-18;\" target=\"_blank\">Kis. 11:1-18</a>; <a href=\"/alkitabq.php?q=Mzm42:2-3;Mzm43:3;Mzm43:4;\" target=\"_blank\">Mzm. 42:2-3; 43:3,4</a>; <a href=\"/alkitabq.php?q=Yoh10:11-18;\" target=\"_blank\">Yoh. 10:11-18</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why13:1-18;\" target=\"_blank\">Why. 13:1-18</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis11:1-18;",
+                    "text": "Kis. 11:1-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm42:2-3;Mzm43:3;Mzm43:4;",
+                    "text": "Mzm. 42:2-3; 43:3,4"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh10:11-18;",
+                    "text": "Yoh. 10:11-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why13:1-18;",
+                    "text": "BcO Why. 13:1-18"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1682960400000,
+        "localDate": "2 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/2Mei.html",
+        "name": "Peringatan Wajib St. Atanasius",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis11:19-26;\" target=\"_blank\">Kis. 11:19-26</a>; <a href=\"/alkitabq.php?q=Mzm87:1-3;Mzm87:4-5;Mzm87:6-7;\" target=\"_blank\">Mzm. 87:1-3,4-5,6-7</a>; <a href=\"/alkitabq.php?q=Yoh10:22-30;\" target=\"_blank\">Yoh. 10:22-30</a> <br>\nBcO <a href=\"/alkitabq.php?q=Why14:1-13;\" target=\"_blank\">Why. 14:1-13</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis11:19-26;",
+                    "text": "Kis. 11:19-26"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm87:1-3;Mzm87:4-5;Mzm87:6-7;",
+                    "text": "Mzm. 87:1-3,4-5,6-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh10:22-30;",
+                    "text": "Yoh. 10:22-30"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why14:1-13;",
+                    "text": "BcO Why. 14:1-13"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683046800000,
+        "localDate": "3 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/3Mei.html",
+        "name": "Pesta St. Filipus dan Yakobus,Rasul",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Kor15:1-8;\" target=\"_blank\">1Kor 15:1-8</a>; <a href=\"/alkitabq.php?q=Mzm19:2-3;Mzm19:4-5;\" target=\"_blank\">Mzm 19:2-3.4-5</a>; <a href=\"/alkitabq.php?q=Yoh14:6-14;\" target=\"_blank\">Yoh 14:6-14</a>.<br>\nBcO <a href=\"/alkitabq.php?q=Kis5:12-32;\" target=\"_blank\">Kis 5:12-32</a> atau <a href=\"/alkitabq.php?q=1Kor1:17-99;1Kor2:1-5;\" target=\"_blank\">1Kor 1:17-2:5</a> atau <a href=\"/alkitabq.php?q=1Kor4:1-16;\" target=\"_blank\">1Kor 4:1-16</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor15:1-8;",
+                    "text": "1Kor 15:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm19:2-3;Mzm19:4-5;",
+                    "text": "Mzm 19:2-3.4-5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh14:6-14;",
+                    "text": "Yoh 14:6-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis5:12-32;1Kor1:17-99;1Kor2:1-5;1Kor4:1-16;",
+                    "text": "BcO Kis 5:12-32 atau 1Kor 1:17-2:5 atau 1Kor 4:1-16"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683133200000,
+        "localDate": "4 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/4Mei.html",
+        "name": "Hari biasa Pekan IV Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis13:13-25;\" target=\"_blank\">Kis. 13:13-25</a>; <a href=\"/alkitabq.php?q=Mzm89:2-3;Mzm89:21-22;Mzm89:25;Mzm89:27;\" target=\"_blank\">Mzm. 89:2-3,21-22,25,27</a>; <a href=\"/alkitabq.php?q=Yoh13:16-20;\" target=\"_blank\">Yoh. 13:16-20</a>. B<br>\ncO <a href=\"/alkitabq.php?q=Why15:5-99;Why16:1-21;\" target=\"_blank\">Why. 15:5- 16:21</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis13:13-25;",
+                    "text": "Kis. 13:13-25"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm89:2-3;Mzm89:21-22;Mzm89:25;Mzm89:27;",
+                    "text": "Mzm. 89:2-3,21-22,25,27"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh13:16-20;",
+                    "text": "Yoh. 13:16-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why15:5-99;Why16:1-21;",
+                    "text": "cO Why. 15:5- 16:21"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683219600000,
+        "localDate": "5 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/5Mei.html",
+        "name": "Hari biasa Pekan IV Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis13:26-33;\" target=\"_blank\">Kis. 13:26-33</a>; <a href=\"/alkitabq.php?q=Mzm2:6-7;Mzm2:8-9;Mzm2:10-11;\" target=\"_blank\">Mzm. 2:6-7,8-9,10-11</a>; <a href=\"/alkitabq.php?q=Yoh14:1-6;\" target=\"_blank\">Yoh. 14:1-6</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why17:1-18;\" target=\"_blank\">Why. 17:1-18</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis13:26-33;",
+                    "text": "Kis. 13:26-33"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm2:6-7;Mzm2:8-9;Mzm2:10-11;",
+                    "text": "Mzm. 2:6-7,8-9,10-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh14:1-6;",
+                    "text": "Yoh. 14:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why17:1-18;",
+                    "text": "BcO Why. 17:1-18"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683306000000,
+        "localDate": "6 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/6Mei.html",
+        "name": "Hari biasa Pekan IV Paskah Hari Sabtu Imam",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis13:44-52;\" target=\"_blank\">Kis. 13:44-52</a>; <a href=\"/alkitabq.php?q=Mzm98:1;Mzm98:2-3;Mzm98:3-4;\" target=\"_blank\">Mzm. 98:1,2-3b,3d-4</a>; <a href=\"/alkitabq.php?q=Yoh14:7-14;\" target=\"_blank\">Yoh. 14:7-14</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why18:1-20;\" target=\"_blank\">Why. 18:1-20</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis13:44-52;",
+                    "text": "Kis. 13:44-52"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm98:1;Mzm98:2-3;Mzm98:3-4;",
+                    "text": "Mzm. 98:1,2-3b,3d-4"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh14:7-14;",
+                    "text": "Yoh. 14:7-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why18:1-20;",
+                    "text": "BcO Why. 18:1-20"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683392400000,
+        "localDate": "7 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/7Mei.html",
+        "name": "HARI MINGGU PASKAH V",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis6:1-7;\" target=\"_blank\">Kis. 6:1-7</a>; <a href=\"/alkitabq.php?q=Mzm33:1-2;Mzm33:4-5;Mzm33:18-19;\" target=\"_blank\">Mzm. 33:1-2,4-5,18-19</a>; <a href=\"/alkitabq.php?q=1Ptr2:4-9;\" target=\"_blank\">1Ptr. 2:4-9</a>; <a href=\"/alkitabq.php?q=Yoh14:1-12;\" target=\"_blank\">Yoh. 14:1-12</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why18:21-99;Why19:1-10;\" target=\"_blank\">Why. 18:21-19:10</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis6:1-7;",
+                    "text": "Kis. 6:1-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm33:1-2;Mzm33:4-5;Mzm33:18-19;",
+                    "text": "Mzm. 33:1-2,4-5,18-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Ptr2:4-9;",
+                    "text": "1Ptr. 2:4-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh14:1-12;",
+                    "text": "Yoh. 14:1-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why18:21-99;Why19:1-10;",
+                    "text": "BcO Why. 18:21-19:10"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683478800000,
+        "localDate": "8 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/8Mei.html",
+        "name": "Hari biasa Pekan V Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis14:5-18;\" target=\"_blank\">Kis. 14:5-18</a>; <a href=\"/alkitabq.php?q=Mzm115:1-2;Mzm115:3-4;Mzm115:15-16;\" target=\"_blank\">Mzm. 115:1-2,3-4,15-16</a>; <a href=\"/alkitabq.php?q=Yoh14:21-26;\" target=\"_blank\">Yoh. 14:21-26</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why19:11-21;\" target=\"_blank\">Why. 19:11-21</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis14:5-18;",
+                    "text": "Kis. 14:5-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm115:1-2;Mzm115:3-4;Mzm115:15-16;",
+                    "text": "Mzm. 115:1-2,3-4,15-16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh14:21-26;",
+                    "text": "Yoh. 14:21-26"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why19:11-21;",
+                    "text": "BcO Why. 19:11-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683565200000,
+        "localDate": "9 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/9Mei.html",
+        "name": "Hari biasa Pekan V Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis14:19-28;\" target=\"_blank\">Kis. 14:19-28</a>; <a href=\"/alkitabq.php?q=Mzm145:10-11;Mzm145:12-13;Mzm145:21;\" target=\"_blank\">Mzm. 145:10-11,12-13b,21</a>; <a href=\"/alkitabq.php?q=Yoh14:27-31;\" target=\"_blank\">Yoh. 14:27-31a</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why20:1-15;\" target=\"_blank\">Why. 20:1-15</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis14:19-28;",
+                    "text": "Kis. 14:19-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm145:10-11;Mzm145:12-13;Mzm145:21;",
+                    "text": "Mzm. 145:10-11,12-13b,21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh14:27-31;",
+                    "text": "Yoh. 14:27-31a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why20:1-15;",
+                    "text": "BcO Why. 20:1-15"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683651600000,
+        "localDate": "10 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/10Mei.html",
+        "name": "Yohanes dari Avila",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis15:1-6;\" target=\"_blank\">Kis. 15:1-6</a>; <a href=\"/alkitabq.php?q=Mzm122:1-2;Mzm122:3-4;Mzm122:4-5;\" target=\"_blank\">Mzm. 122:1-2,3-4a,4b-5</a>; <a href=\"/alkitabq.php?q=Yoh15:1-8;\" target=\"_blank\">Yoh. 15:1-8</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why21:1-8;\" target=\"_blank\">Why. 21:1-8</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis15:1-6;",
+                    "text": "Kis. 15:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm122:1-2;Mzm122:3-4;Mzm122:4-5;",
+                    "text": "Mzm. 122:1-2,3-4a,4b-5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh15:1-8;",
+                    "text": "Yoh. 15:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why21:1-8;",
+                    "text": "BcO Why. 21:1-8"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683738000000,
+        "localDate": "11 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/11Mei.html",
+        "name": "Hari biasa Pekan V Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis15:7-21;\" target=\"_blank\">Kis. 15:7-21</a>; <a href=\"/alkitabq.php?q=Mzm96:1-2;Mzm96:2-3;Mzm96:10;\" target=\"_blank\">Mzm. 96:1-2a,2b-3,10</a>; <a href=\"/alkitabq.php?q=Yoh15:9-11;\" target=\"_blank\">Yoh. 15:9-11</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why21:9-27;\" target=\"_blank\">Why. 21:9-27</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis15:7-21;",
+                    "text": "Kis. 15:7-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm96:1-2;Mzm96:2-3;Mzm96:10;",
+                    "text": "Mzm. 96:1-2a,2b-3,10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh15:9-11;",
+                    "text": "Yoh. 15:9-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why21:9-27;",
+                    "text": "BcO Why. 21:9-27"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683824400000,
+        "localDate": "12 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/12Mei.html",
+        "name": "Nereus, Akhilleus, Pankrasius",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis15:22-31;\" target=\"_blank\">Kis. 15:22-31</a>; <a href=\"/alkitabq.php?q=Mzm57:8-9;Mzm57:10-12;\" target=\"_blank\">Mzm. 57:8-9,10-12</a>; <a href=\"/alkitabq.php?q=Yoh15:12-17;\" target=\"_blank\">Yoh. 15:12-17</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why22:1-9;\" target=\"_blank\">Why. 22:1-9</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis15:22-31;",
+                    "text": "Kis. 15:22-31"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm57:8-9;Mzm57:10-12;",
+                    "text": "Mzm. 57:8-9,10-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh15:12-17;",
+                    "text": "Yoh. 15:12-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why22:1-9;",
+                    "text": "BcO Why. 22:1-9"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683910800000,
+        "localDate": "13 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/13Mei.html",
+        "name": "Santa Perawan Maria dr Fatima",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis16:1-10;\" target=\"_blank\">Kis. 16:1-10</a>; <a href=\"/alkitabq.php?q=Mzm100:1-2;Mzm100:3;Mzm100:5;\" target=\"_blank\">Mzm. 100:1-2,3,5</a>; <a href=\"/alkitabq.php?q=Yoh15:18-21;\" target=\"_blank\">Yoh. 15:18-21</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Why22:10-21;\" target=\"_blank\">Why. 22:10-21</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis16:1-10;",
+                    "text": "Kis. 16:1-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm100:1-2;Mzm100:3;Mzm100:5;",
+                    "text": "Mzm. 100:1-2,3,5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh15:18-21;",
+                    "text": "Yoh. 15:18-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why22:10-21;",
+                    "text": "BcO Why. 22:10-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1683997200000,
+        "localDate": "14 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/14Mei.html",
+        "name": "HARI MINGGU PASKAH",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis8:5-8;Kis8:14-17;\" target=\"_blank\">Kis. 8:5-8,14-17</a>; <a href=\"/alkitabq.php?q=Mzm66:1-3;Mzm66:4-5;Mzm66:6-7;Mzm66:16;Mzm66:20;\" target=\"_blank\">Mzm. 66:1-3a,4-5,6-7a,16,20</a>; <a href=\"/alkitabq.php?q=1Ptr3:15-18;\" target=\"_blank\">1Ptr. 3:15-18</a>; <a href=\"/alkitabq.php?q=Yoh14:15-21;\" target=\"_blank\">Yoh. 14:15-21</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Yoh1:1-10;\" target=\"_blank\">1Yoh. 1:1-10</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis8:5-8;Kis8:14-17;",
+                    "text": "Kis. 8:5-8,14-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm66:1-3;Mzm66:4-5;Mzm66:6-7;Mzm66:16;Mzm66:20;",
+                    "text": "Mzm. 66:1-3a,4-5,6-7a,16,20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Ptr3:15-18;",
+                    "text": "1Ptr. 3:15-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh14:15-21;",
+                    "text": "Yoh. 14:15-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh1:1-10;",
+                    "text": "BcO 1Yoh. 1:1-10"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684083600000,
+        "localDate": "15 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/15Mei.html",
+        "name": "Hari biasa Pekan VI Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis16:11-15;\" target=\"_blank\">Kis. 16:11-15</a>; <a href=\"/alkitabq.php?q=Mzm149:1-2;Mzm149:3-4;Mzm149:5-6;Mzm149:9;\" target=\"_blank\">Mzm. 149:1-2,3-4,5-6a,9b</a>; <a href=\"/alkitabq.php?q=Yoh15:26-99;Yoh16:1-4;\" target=\"_blank\">Yoh. 15:26 - 16:4a</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Yoh2:1-11;\" target=\"_blank\">1Yoh. 2:1-11</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis16:11-15;",
+                    "text": "Kis. 16:11-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm149:1-2;Mzm149:3-4;Mzm149:5-6;Mzm149:9;",
+                    "text": "Mzm. 149:1-2,3-4,5-6a,9b"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh15:26-99;Yoh16:1-4;",
+                    "text": "Yoh. 15:26 - 16:4a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh2:1-11;",
+                    "text": "BcO 1Yoh. 2:1-11"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684170000000,
+        "localDate": "16 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/16Mei.html",
+        "name": "Hari biasa Pekan VI Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<br>\n<a href=\"/alkitabq.php?q=Kis16:22-34;\" target=\"_blank\">Kis. 16:22-34</a>; <a href=\"/alkitabq.php?q=Mzm138:1-2;Mzm138:2-3;Mzm138:7-8;\" target=\"_blank\">Mzm. 138:1-2a,2b-3,7c-8</a>; <a href=\"/alkitabq.php?q=Yoh16:5-11;\" target=\"_blank\">Yoh. 16:5-11</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Yoh2:12-17;\" target=\"_blank\">1Yoh. 2:12-17</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis16:22-34;",
+                    "text": "Kis. 16:22-34"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm138:1-2;Mzm138:2-3;Mzm138:7-8;",
+                    "text": "Mzm. 138:1-2a,2b-3,7c-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh16:5-11;",
+                    "text": "Yoh. 16:5-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh2:12-17;",
+                    "text": "BcO 1Yoh. 2:12-17"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684256400000,
+        "localDate": "17 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/17Mei.html",
+        "name": "Hari biasa Pekan VI Paskah",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis17:15;Kis17:22-99;Kis18:1-1;\" target=\"_blank\">Kis. 17:15,22 - 18:1</a>; <a href=\"/alkitabq.php?q=Mzm148:1-2;Mzm148:11-12;Mzm148:12-14;Mzm148:14;\" target=\"_blank\">Mzm. 148:1-2,11-12b,12c-14a,14bcd</a>; <a href=\"/alkitabq.php?q=Yoh16:12-15;\" target=\"_blank\">Yoh. 16:12-15</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Yoh2:18-29;\" target=\"_blank\">1Yoh. 2:18-29</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis17:15;Kis17:22-99;Kis18:1-1;",
+                    "text": "Kis. 17:15,22 - 18:1"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm148:1-2;Mzm148:11-12;Mzm148:12-14;Mzm148:14;",
+                    "text": "Mzm. 148:1-2,11-12b,12c-14a,14bcd"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh16:12-15;",
+                    "text": "Yoh. 16:12-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh2:18-29;",
+                    "text": "BcO 1Yoh. 2:18-29"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684342800000,
+        "localDate": "18 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/18Mei.html",
+        "name": "HARI RAYA KENAIKAN TUHAN",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis1:1-11;\" target=\"_blank\">Kis. 1:1-11</a>; <a href=\"/alkitabq.php?q=Mzm47:2-3;Mzm47:6-7;Mzm47:8-9;\" target=\"_blank\">Mzm. 47:2-3,6-7,8-9</a>; <a href=\"/alkitabq.php?q=Ef1:17-23;\" target=\"_blank\">Ef. 1:17-23</a>; <a href=\"/alkitabq.php?q=Mat28:16-20;\" target=\"_blank\">Mat. 28:16-20</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ef4:1-24;\" target=\"_blank\">Ef. 4:1-24</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis1:1-11;",
+                    "text": "Kis. 1:1-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm47:2-3;Mzm47:6-7;Mzm47:8-9;",
+                    "text": "Mzm. 47:2-3,6-7,8-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ef1:17-23;",
+                    "text": "Ef. 1:17-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat28:16-20;",
+                    "text": "Mat. 28:16-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ef4:1-24;",
+                    "text": "BcO Ef. 4:1-24"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684429200000,
+        "localDate": "19 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/19Mei.html",
+        "name": "Hari biasa Pekan VI Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis18:9-18;\" target=\"_blank\">Kis. 18:9-18</a>; <a href=\"/alkitabq.php?q=Mzm47:2-3;Mzm47:4-5;Mzm47:6-7;\" target=\"_blank\">Mzm. 47:2-3,4-5,6-7</a>; <a href=\"/alkitabq.php?q=Yoh16:20-23;\" target=\"_blank\">Yoh. 16:20-23a</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Yoh3:1-10;\" target=\"_blank\">1Yoh. 3:1-10</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis18:9-18;",
+                    "text": "Kis. 18:9-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm47:2-3;Mzm47:4-5;Mzm47:6-7;",
+                    "text": "Mzm. 47:2-3,4-5,6-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh16:20-23;",
+                    "text": "Yoh. 16:20-23a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh3:1-10;",
+                    "text": "BcO 1Yoh. 3:1-10"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684515600000,
+        "localDate": "20 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/20Mei.html",
+        "name": "Bernardinus dr Siena",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis18:23-28;\" target=\"_blank\">Kis. 18:23-28</a>; <a href=\"/alkitabq.php?q=Mzm47:2-3;Mzm47:8-9;Mzm47:10;\" target=\"_blank\">Mzm. 47:2-3,8-9,10</a>; <a href=\"/alkitabq.php?q=Yoh16:23-28;\" target=\"_blank\">Yoh. 16:23b-28</a><br>\nBcO <a href=\"/alkitabq.php?q=1Yoh3:11-17;\" target=\"_blank\">1Yoh. 3:11-17</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis18:23-28;",
+                    "text": "Kis. 18:23-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm47:2-3;Mzm47:8-9;Mzm47:10;",
+                    "text": "Mzm. 47:2-3,8-9,10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh16:23-28;",
+                    "text": "Yoh. 16:23b-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh3:11-17;",
+                    "text": "BcO 1Yoh. 3:11-17"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684602000000,
+        "localDate": "21 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/21Mei.html",
+        "name": "HARI MINGGU PASKAH VII Hari Minggu Komunikasi Sedunia",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis1:12-14;\" target=\"_blank\">Kis. 1:12-14</a>; <a href=\"/alkitabq.php?q=Mzm27:1;Mzm27:4;Mzm27:7-8;\" target=\"_blank\">Mzm. 27:1,4,7-8a</a>; <a href=\"/alkitabq.php?q=1Ptr4:13-16;\" target=\"_blank\">1Ptr. 4:13-16</a>; <a href=\"/alkitabq.php?q=Yoh17:1-11;\" target=\"_blank\">Yoh. 17:1-11a</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Yoh3:18-24;\" target=\"_blank\">1Yoh. 3:18-24</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis1:12-14;",
+                    "text": "Kis. 1:12-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm27:1;Mzm27:4;Mzm27:7-8;",
+                    "text": "Mzm. 27:1,4,7-8a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Ptr4:13-16;",
+                    "text": "1Ptr. 4:13-16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh17:1-11;",
+                    "text": "Yoh. 17:1-11a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh3:18-24;",
+                    "text": "BcO 1Yoh. 3:18-24"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684688400000,
+        "localDate": "22 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/22Mei.html",
+        "name": "Rita dr Cascia",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis19:1-8;\" target=\"_blank\">Kis. 19:1-8</a>; <a href=\"/alkitabq.php?q=Mzm68:2-3;Mzm68:4-5;Mzm68:6-7;\" target=\"_blank\">Mzm. 68:2-3,4-5ac,6-7b</a>; <a href=\"/alkitabq.php?q=Yoh16:29-33;\" target=\"_blank\">Yoh. 16:29-33</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Yoh4:1-10;\" target=\"_blank\">1Yoh. 4:1-10</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis19:1-8;",
+                    "text": "Kis. 19:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm68:2-3;Mzm68:4-5;Mzm68:6-7;",
+                    "text": "Mzm. 68:2-3,4-5ac,6-7b"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh16:29-33;",
+                    "text": "Yoh. 16:29-33"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh4:1-10;",
+                    "text": "BcO 1Yoh. 4:1-10"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684774800000,
+        "localDate": "23 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/23Mei.html",
+        "name": "Hari biasa Pekan VII Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis20:17-27;\" target=\"_blank\">Kis. 20:17-27</a>; <a href=\"/alkitabq.php?q=Mzm68:10-11;Mzm68:20-21;\" target=\"_blank\">Mzm. 68:10-11,20-21</a>; <a href=\"/alkitabq.php?q=Yoh17:1-11;\" target=\"_blank\">Yoh. 17:1-11a</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Yoh4:11-21;\" target=\"_blank\">1Yoh. 4:11-21</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis20:17-27;",
+                    "text": "Kis. 20:17-27"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm68:10-11;Mzm68:20-21;",
+                    "text": "Mzm. 68:10-11,20-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh17:1-11;",
+                    "text": "Yoh. 17:1-11a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh4:11-21;",
+                    "text": "BcO 1Yoh. 4:11-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684861200000,
+        "localDate": "24 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/24Mei.html",
+        "name": "Hari biasa Pekan VII Paskah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis20:28-38;\" target=\"_blank\">Kis. 20:28-38</a>; <a href=\"/alkitabq.php?q=Mzm68:29-30;Mzm68:33-35;Mzm68:35-36;\" target=\"_blank\">Mzm. 68:29-30,33-35a,35b-36c</a>; <a href=\"/alkitabq.php?q=Yoh17:11-19;\" target=\"_blank\">Yoh. 17:11b-19</a>. <br>\nBcO  <a href=\"/alkitabq.php?q=1Yoh5:1-12;\" target=\"_blank\">1Yoh. 5:1-12</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis20:28-38;",
+                    "text": "Kis. 20:28-38"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm68:29-30;Mzm68:33-35;Mzm68:35-36;",
+                    "text": "Mzm. 68:29-30,33-35a,35b-36c"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh17:11-19;",
+                    "text": "Yoh. 17:11b-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh5:1-12;",
+                    "text": "BcO 1Yoh. 5:1-12"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1684947600000,
+        "localDate": "25 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/25Mei.html",
+        "name": "Beda Venerabilis, Gregorius VII, Maria Magdalena dr Pazzi",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis20:28-38;\" target=\"_blank\">Kis. 20:28-38</a>; <a href=\"/alkitabq.php?q=Mzm68:29-30;Mzm68:33-35;Mzm68:35-36;\" target=\"_blank\">Mzm. 68:29-30,33-35a,35b-36c</a>; <a href=\"/alkitabq.php?q=Yoh17:11-19;\" target=\"_blank\">Yoh. 17:11b-19</a>. <br>\nBcO  <a href=\"/alkitabq.php?q=1Yoh5:1-12;\" target=\"_blank\">1Yoh. 5:1-12</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis20:28-38;",
+                    "text": "Kis. 20:28-38"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm68:29-30;Mzm68:33-35;Mzm68:35-36;",
+                    "text": "Mzm. 68:29-30,33-35a,35b-36c"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh17:11-19;",
+                    "text": "Yoh. 17:11b-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh5:1-12;",
+                    "text": "BcO 1Yoh. 5:1-12"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1685034000000,
+        "localDate": "26 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/26Mei.html",
+        "name": "Peringatan Wajib St. Filipus Neri",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis25:13-21;\" target=\"_blank\">Kis. 25:13-21</a>; <a href=\"/alkitabq.php?q=Mzm103:1-2;Mzm103:11-12;Mzm103:19-20;\" target=\"_blank\">Mzm. 103:1-2,11-12,19-20b</a>; <a href=\"/alkitabq.php?q=Yoh21:15-19;\" target=\"_blank\">Yoh. 21:15-19</a> <br>\nBcO 2Yoh",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis25:13-21;",
+                    "text": "Kis. 25:13-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm103:1-2;Mzm103:11-12;Mzm103:19-20;",
+                    "text": "Mzm. 103:1-2,11-12,19-20b"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh21:15-19;",
+                    "text": "Yoh. 21:15-19"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1685120400000,
+        "localDate": "27 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/27Mei.html",
+        "name": "Agustinus dr Canterbury",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis28:16-20;Kis28:30-31;\" target=\"_blank\">Kis. 28:16-20,30-31</a>; <a href=\"/alkitabq.php?q=Mzm11:4;Mzm11:5;Mzm11:7;\" target=\"_blank\">Mzm. 11:4,5,7</a>; <a href=\"/alkitabq.php?q=Yoh21:20-25;\" target=\"_blank\">Yoh. 21:20-25</a>. <br>\nBcO  3Yoh<br>\nVigili Hari Raya: <a href=\"/alkitabq.php?q=Kej11:1-9;\" target=\"_blank\">Kej. 11:1-9</a> atau <a href=\"/alkitabq.php?q=Kel19:3-8;Kel19:16-20;\" target=\"_blank\">Kel. 19:3-8a,16-20b</a> atau <a href=\"/alkitabq.php?q=Yeh37:1-14;\" target=\"_blank\">Yeh. 37:1-14</a> atau <a href=\"/alkitabq.php?q=Yl2:28-32;\" target=\"_blank\">Yl. 2:28-32</a>; <a href=\"/alkitabq.php?q=Mzm104:1-2;Mzm104:24;Mzm104:25;Mzm104:27-28;Mzm104:29-30;\" target=\"_blank\">Mzm. 104:1-2a, 24.25c, 27-28,29bc-30</a>; <a href=\"/alkitabq.php?q=Rm8:22-27;\" target=\"_blank\">Rm. 8:22-27</a>; <a href=\"/alkitabq.php?q=Yoh7:37-39;\" target=\"_blank\">Yoh. 7:37-39</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis28:16-20;Kis28:30-31;",
+                    "text": "Kis. 28:16-20,30-31"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm11:4;Mzm11:5;Mzm11:7;",
+                    "text": "Mzm. 11:4,5,7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh21:20-25;",
+                    "text": "Yoh. 21:20-25"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kej11:1-9;Kel19:3-8;Kel19:16-20;Yeh37:1-14;Yl2:28-32;",
+                    "text": "Vigili Kej. 11:1-9 atau Kel. 19:3-8a,16-20b atau Yeh. 37:1-14 atau Yl. 2:28-32"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm104:1-2;Mzm104:24;Mzm104:25;Mzm104:27-28;Mzm104:29-30;",
+                    "text": "Mzm. 104:1-2a, 24.25c, 27-28,29bc-30"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Rm8:22-27;",
+                    "text": "Rm. 8:22-27"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh7:37-39;",
+                    "text": "Yoh. 7:37-39"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1685206800000,
+        "localDate": "28 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/28Mei.html",
+        "name": "HARI RAYA PENTAKOSTA",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kis2:1-11;\" target=\"_blank\">Kis. 2:1-11</a>; <a href=\"/alkitabq.php?q=Mzm104:1;Mzm104:24;Mzm104:29-30;Mzm104:31;Mzm104:34;\" target=\"_blank\">Mzm. 104:1ab,24ac,29c-30,31,34</a>; <a href=\"/alkitabq.php?q=1Kor12:3-7;1Kor12:12-13;\" target=\"_blank\">1Kor. 12: 3b-7.12-13</a>; <a href=\"/alkitabq.php?q=Yoh20:19-23;\" target=\"_blank\">Yoh. 20:19-23</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Rm8:5-27;\" target=\"_blank\">Rm. 8:5-27</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis2:1-11;",
+                    "text": "Kis. 2:1-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm104:1;Mzm104:24;Mzm104:29-30;Mzm104:31;Mzm104:34;",
+                    "text": "Mzm. 104:1ab,24ac,29c-30,31,34"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor12:3-7;1Kor12:12-13;",
+                    "text": "1Kor. 12: 3b-7.12-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh20:19-23;",
+                    "text": "Yoh. 20:19-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Rm8:5-27;",
+                    "text": "BcO Rm. 8:5-27"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1685293200000,
+        "localDate": "29 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/29Mei.html",
+        "name": "Peringatan Wajib SP Maria Bunda Gereja",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kej3:9-15;Kej3:20;\" target=\"_blank\">Kej 3:9-15, 20</a> atau <a href=\"/alkitabq.php?q=Kis1:12-14;\" target=\"_blank\">Kis 1:12-14</a>; <a href=\"/alkitabq.php?q=Mzm87:1-2;Mzm87:3;Mzm87:5;Mzm87:6-7;\" target=\"_blank\">Mzm 87:1-2,3,5,6-7</a>, R:3; <a href=\"/alkitabq.php?q=Yoh19:25-34;\" target=\"_blank\">Yoh. 19:25-34</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Kor15:1-19;\" target=\"_blank\">1 Kor 15:1-19</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kej3:9-15;Kej3:20;Kis1:12-14;",
+                    "text": "Kej 3:9-15, 20 atau Kis 1:12-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm87:1-2;Mzm87:3;Mzm87:5;Mzm87:6-7;",
+                    "text": "Mzm 87:1-2,3,5,6-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh19:25-34;",
+                    "text": ":3 Yoh. 19:25-34"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor15:1-19;",
+                    "text": "BcO 1 Kor 15:1-19"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1685379600000,
+        "localDate": "30 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/30Mei.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Sir35:1-12;\" target=\"_blank\">Sir. 35:1-12</a>; <a href=\"/alkitabq.php?q=Mzm50:5-6;Mzm50:7-8;Mzm50:14;Mzm50:23;\" target=\"_blank\">Mzm. 50:5-6,7-8,14,23</a>; <a href=\"/alkitabq.php?q=Mrk10:28-31;\" target=\"_blank\">Mrk. 10:28-31</a>. BcO <a href=\"/alkitabq.php?q=1Kor15:20-34;\" target=\"_blank\">1Kor. 15:20-34</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Sir35:1-12;",
+                    "text": "Sir. 35:1-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm50:5-6;Mzm50:7-8;Mzm50:14;Mzm50:23;",
+                    "text": "Mzm. 50:5-6,7-8,14,23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mrk10:28-31;",
+                    "text": "Mrk. 10:28-31"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor15:20-34;",
+                    "text": "BcO 1Kor. 15:20-34"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1685466000000,
+        "localDate": "31 Mei 2023",
+        "url": "https://www.imankatolik.or.id/kalender/31Mei.html",
+        "name": "Pesta SP Maria Mengunjungi Elisabet",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Zef3:14-18;\" target=\"_blank\">Zef 3:14-18</a> atau <a href=\"/alkitabq.php?q=Rm12:9-16;\" target=\"_blank\">Rm 12:9-16b</a>; MT <a href=\"/alkitabq.php?q=Yes12:2-3;Yes12:4;Yes12:5-6;\" target=\"_blank\">Yes 12:2-3.4bcd.5-6</a>; <a href=\"/alkitabq.php?q=Luk1:39-56;\" target=\"_blank\">Luk 1:39-56</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Kid2:8-14;Kid8:6-7;\" target=\"_blank\">Kid 2:8-14; 8:6-7</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Zef3:14-18;Rm12:9-16;",
+                    "text": "Zef 3:14-18 atau Rm 12:9-16b"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes12:2-3;Yes12:4;Yes12:5-6;",
+                    "text": "MT Yes 12:2-3.4bcd.5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk1:39-56;",
+                    "text": "Luk 1:39-56"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kid2:8-14;Kid8:6-7;",
+                    "text": "BcO Kid 2:8-14; 8:6-7"
+                }
+            ]
+        }
+    }
+]

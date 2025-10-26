@@ -1,0 +1,976 @@
+[
+    {
+        "date": 1659286800000,
+        "localDate": "1 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/1Agu.html",
+        "name": "Peringatan Wajib St. Alfonsus Maria de Liguori",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer28:1-17;\" target=\"_blank\">Yer. 28:1-17</a>; <a href=\"/alkitabq.php?q=Mzm119:29;Mzm119:43;Mzm119:79;Mzm119:80;Mzm119:95;Mzm119:102;\" target=\"_blank\">Mzm. 119:29,43,79,80,95,102</a>; <a href=\"/alkitabq.php?q=Mat14:13-21;\" target=\"_blank\">Mat. 14:13-21</a>;  <br>\nBcO <a href=\"/alkitabq.php?q=Yl1:13;\" target=\"_blank\">Yl. 1:13</a>�2:11",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer28:1-17;",
+                    "text": "Yer. 28:1-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm119:29;Mzm119:43;Mzm119:79;Mzm119:80;Mzm119:95;Mzm119:102;",
+                    "text": "Mzm. 119:29,43,79,80,95,102"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat14:13-21;",
+                    "text": "Mat. 14:13-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yl1:13;",
+                    "text": "BcO Yl. 1:13"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659373200000,
+        "localDate": "2 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/2Agu.html",
+        "name": "Peringatan fakultatif St. Eusebius Vercelli, St. Petrus Yulianus Eymard",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer30:1-2;Yer30:12-15;Yer30:18-22;\" target=\"_blank\">Yer. 30:1-2,12-15,18-22</a>; <a href=\"/alkitabq.php?q=Mzm102:16-18;Mzm102:19-21;Mzm102:29;Mzm102:22-23;\" target=\"_blank\">Mzm. 102:16-18,19-21,29,22-23</a>; <a href=\"/alkitabq.php?q=Mat14:22-36;\" target=\"_blank\">Mat. 14:22-36</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yl2:12-17;\" target=\"_blank\">Yl. 2:12-17</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer30:1-2;Yer30:12-15;Yer30:18-22;",
+                    "text": "Yer. 30:1-2,12-15,18-22"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm102:16-18;Mzm102:19-21;Mzm102:29;Mzm102:22-23;",
+                    "text": "Mzm. 102:16-18,19-21,29,22-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat14:22-36;",
+                    "text": "Mat. 14:22-36"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yl2:12-17;",
+                    "text": "BcO Yl. 2:12-17"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659459600000,
+        "localDate": "3 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/3Agu.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer31:1-7;\" target=\"_blank\">Yer. 31:1-7</a>; MT <a href=\"/alkitabq.php?q=Yer31:10;Yer31:11-12;Yer31:13;\" target=\"_blank\">Yer. 31:10,11-12ab,13</a>; <a href=\"/alkitabq.php?q=Mat15:21-28;\" target=\"_blank\">Mat. 15:21-28</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yl2:28;\" target=\"_blank\">Yl. 2:28</a>�3:8.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer31:1-7;",
+                    "text": "Yer. 31:1-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer31:10;Yer31:11-12;Yer31:13;",
+                    "text": "MT Yer. 31:10,11-12ab,13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat15:21-28;",
+                    "text": "Mat. 15:21-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yl2:28;",
+                    "text": "BcO Yl. 2:28"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659546000000,
+        "localDate": "4 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/4Agu.html",
+        "name": "Peringatan Wajib St.Yohanes Maria Vianney",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer31:31-34;\" target=\"_blank\">Yer. 31:31-34</a>; <a href=\"/alkitabq.php?q=Mzm51:12-13;Mzm51:14-15;Mzm51:18-19;\" target=\"_blank\">Mzm. 51:12-13,14-15,18-19</a>; <a href=\"/alkitabq.php?q=Mat16:13-23;\" target=\"_blank\">Mat. 16:13-23</a>;  <br>\nBcO <a href=\"/alkitabq.php?q=Yl3:9-21;\" target=\"_blank\">Yl. 3:9-21</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer31:31-34;",
+                    "text": "Yer. 31:31-34"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm51:12-13;Mzm51:14-15;Mzm51:18-19;",
+                    "text": "Mzm. 51:12-13,14-15,18-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat16:13-23;",
+                    "text": "Mat. 16:13-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yl3:9-21;",
+                    "text": "BcO Yl. 3:9-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659632400000,
+        "localDate": "5 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/5Agu.html",
+        "name": "Peringatan fakultatif Pemberkatan Gereja Basilik Santa Perawan Maria",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Nah1:15;Nah2:2;Nah3:1-3;Nah3:6-7;\" target=\"_blank\">Nah. 1:15; 2:2; 3:1-3,6-7</a>; MT <a href=\"/alkitabq.php?q=Ul32:35-36;Ul32:39;Ul32:41;\" target=\"_blank\">Ul. 32:35cd-36ab,39abcd,41</a>; <a href=\"/alkitabq.php?q=Mat16:24-28;\" target=\"_blank\">Mat. 16:24-28</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Mal1:1-14;Mal2:13-16;\" target=\"_blank\">Mal. 1:1-14; 2:13-16</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Nah1:15;Nah2:2;Nah3:1-3;Nah3:6-7;",
+                    "text": "Nah. 1:15; 2:2; 3:1-3,6-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ul32:35-36;Ul32:39;Ul32:41;",
+                    "text": "MT Ul. 32:35cd-36ab,39abcd,41"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat16:24-28;",
+                    "text": "Mat. 16:24-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mal1:1-14;Mal2:13-16;",
+                    "text": "BcO Mal. 1:1-14; 2:13-16"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659718800000,
+        "localDate": "6 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/6Agu.html",
+        "name": "Pesta Yesus Menampakkan Kemuliaan-Nya",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Dan7:9-10;Dan7:13-14;\" target=\"_blank\">Dan. 7:9-10,13-14</a> atau <a href=\"/alkitabq.php?q=2Ptr1:16-19;\" target=\"_blank\">2Ptr. 1:16-19</a>; <a href=\"/alkitabq.php?q=Mzm97:1-2;Mzm97:5-6;Mzm97:9;\" target=\"_blank\">Mzm. 97:1-2,5-6,9</a>; <a href=\"/alkitabq.php?q=Luk9:28-36;\" target=\"_blank\">Luk. 9:28b-36</a>. <br>\nBcO <a href=\"/alkitabq.php?q=2Kor3:7;\" target=\"_blank\">2Kor. 3:7</a>�4:6",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Dan7:9-10;Dan7:13-14;2Ptr1:16-19;",
+                    "text": "Dan. 7:9-10,13-14 atau 2Ptr. 1:16-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm97:1-2;Mzm97:5-6;Mzm97:9;",
+                    "text": "Mzm. 97:1-2,5-6,9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk9:28-36;",
+                    "text": "Luk. 9:28b-36"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Kor3:7;",
+                    "text": "BcO 2Kor. 3:7"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659805200000,
+        "localDate": "7 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/7Agu.html",
+        "name": "Hari Minggu Biasa XIX",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Keb18:6-9;\" target=\"_blank\">Keb. 18:6-9</a>; <a href=\"/alkitabq.php?q=Mzm33:1;Mzm33:12;Mzm33:18-19;Mzm33:20;Mzm33:22;\" target=\"_blank\">Mzm. 33:1,12,18-19,20,22</a>; <a href=\"/alkitabq.php?q=Ibr11:1-2;Ibr11:8-19;\" target=\"_blank\">Ibr. 11:1-2,8-19</a> ; <a href=\"/alkitabq.php?q=Luk12:32-48;\" target=\"_blank\">Luk. 12:32-48</a> <br>\nBcO <a href=\"/alkitabq.php?q=Yun1:1;\" target=\"_blank\">Yun. 1:1</a>�17; 2: 10.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Keb18:6-9;",
+                    "text": "Keb. 18:6-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm33:1;Mzm33:12;Mzm33:18-19;Mzm33:20;Mzm33:22;",
+                    "text": "Mzm. 33:1,12,18-19,20,22"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ibr11:1-2;Ibr11:8-19;",
+                    "text": "Ibr. 11:1-2,8-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk12:32-48;",
+                    "text": "Luk. 12:32-48"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yun1:1;",
+                    "text": "BcO Yun. 1:1"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659891600000,
+        "localDate": "8 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/8Agu.html",
+        "name": "Peringatan Wajib St. Dominikus, Pendiri Ordo Pengkotbah",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh1:2-5;Yeh1:24;\" target=\"_blank\">Yeh. 1:2-5,24</a> � 2:1a; <a href=\"/alkitabq.php?q=Mzm148:1-2;Mzm148:11-12;Mzm148:12-14;Mzm148:14;\" target=\"_blank\">Mzm. 148:1-2,11-12ab,12c-14a,14bcd</a>; <a href=\"/alkitabq.php?q=Mat17:22-27;\" target=\"_blank\">Mat. 17:22-27</a>;  <br>\nBcO <a href=\"/alkitabq.php?q=Yun3:1;\" target=\"_blank\">Yun. 3:1</a>�4:11.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh1:2-5;Yeh1:24;",
+                    "text": "Yeh. 1:2-5,24"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm148:1-2;Mzm148:11-12;Mzm148:12-14;Mzm148:14;",
+                    "text": ":1a Mzm. 148:1-2,11-12ab,12c-14a,14bcd"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat17:22-27;",
+                    "text": "Mat. 17:22-27"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yun3:1;",
+                    "text": "BcO Yun. 3:1"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659978000000,
+        "localDate": "9 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/9Agu.html",
+        "name": "Peringatan fakultatif St. Teresia Benedikta dr Salib",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh2:8;\" target=\"_blank\">Yeh. 2:8</a>�3:4; <a href=\"/alkitabq.php?q=Mzm119:14;Mzm119:24;Mzm119:72;Mzm119:103;Mzm119:111;Mzm119:131;\" target=\"_blank\">Mzm. 119:14,24,72,103,111,131</a>; <a href=\"/alkitabq.php?q=Mat18:1-5;Mat18:10;Mat18:12-14;\" target=\"_blank\">Mat. 18:1-5,10,12-14</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Za9:1-99;Za10:1-2;\" target=\"_blank\">Za. 9:1-10:2</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh2:8;",
+                    "text": "Yeh. 2:8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm119:14;Mzm119:24;Mzm119:72;Mzm119:103;Mzm119:111;Mzm119:131;",
+                    "text": "�3 Mzm. 119:14,24,72,103,111,131"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat18:1-5;Mat18:10;Mat18:12-14;",
+                    "text": "Mat. 18:1-5,10,12-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Za9:1-99;Za10:1-2;",
+                    "text": "BcO Za. 9:1-10:2"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660064400000,
+        "localDate": "10 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/10Agu.html",
+        "name": "Pesta St. Laurensius",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=2Kor9:6-10;\" target=\"_blank\">2Kor. 9:6-10</a>; <a href=\"/alkitabq.php?q=Mzm112:1-2;Mzm112:5-6;Mzm112:7-8;Mzm112:9;\" target=\"_blank\">Mzm. 112:1-2,5-6,7-8,9</a>; <a href=\"/alkitabq.php?q=Yoh12:24-26;\" target=\"_blank\">Yoh. 12:24-26</a>.<br>\nBcO <a href=\"/alkitabq.php?q=Kis6:1-6;Kis8:1;Kis8:4-8;\" target=\"_blank\">Kis. 6:1-6; 8:1,4-8</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Kor9:6-10;",
+                    "text": "2Kor. 9:6-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm112:1-2;Mzm112:5-6;Mzm112:7-8;Mzm112:9;",
+                    "text": "Mzm. 112:1-2,5-6,7-8,9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh12:24-26;",
+                    "text": "Yoh. 12:24-26"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis6:1-6;Kis8:1;Kis8:4-8;",
+                    "text": "BcO Kis. 6:1-6; 8:1,4-8"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660150800000,
+        "localDate": "11 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/11Agu.html",
+        "name": "Peringatan Wajib St. Klara",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh12:1-12;\" target=\"_blank\">Yeh. 12:1-12</a>; <a href=\"/alkitabq.php?q=Mzm78:56-57;Mzm78:58-59;Mzm78:61-62;\" target=\"_blank\">Mzm. 78:56-57,58-59,61-62</a>; <a href=\"/alkitabq.php?q=Mat18:21;\" target=\"_blank\">Mat. 18:21</a> � 19:1;  <br>\nBcO <a href=\"/alkitabq.php?q=Za11:4;\" target=\"_blank\">Za. 11:4</a>�12:8",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh12:1-12;",
+                    "text": "Yeh. 12:1-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm78:56-57;Mzm78:58-59;Mzm78:61-62;",
+                    "text": "Mzm. 78:56-57,58-59,61-62"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat18:21;",
+                    "text": "Mat. 18:21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Za11:4;",
+                    "text": "BcO Za. 11:4"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660237200000,
+        "localDate": "12 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/12Agu.html",
+        "name": "Peringatan fakultatif St. Yohana Fransiska de Chantal",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh16:1-15;Yeh16:60;Yeh16:63;\" target=\"_blank\">Yeh. 16:1-15,60,63</a> atau <a href=\"/alkitabq.php?q=Yeh16:59-63;\" target=\"_blank\">Yeh. 16:59-63</a>; MT <a href=\"/alkitabq.php?q=Yes12:2-3;Yes12:4;Yes12:5-6;\" target=\"_blank\">Yes. 12:2-3,4bcd,5-6</a>; <a href=\"/alkitabq.php?q=Mat19:3-12;\" target=\"_blank\">Mat. 19:3-12</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Za12:9;\" target=\"_blank\">Za. 12:9</a>�13:9.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh16:1-15;Yeh16:60;Yeh16:63;Yeh16:59-63;",
+                    "text": "Yeh. 16:1-15,60,63 atau Yeh. 16:59-63"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes12:2-3;Yes12:4;Yes12:5-6;",
+                    "text": "MT Yes. 12:2-3,4bcd,5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat19:3-12;",
+                    "text": "Mat. 19:3-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Za12:9;",
+                    "text": "BcO Za. 12:9"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660323600000,
+        "localDate": "13 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/13Agu.html",
+        "name": "Peringatan fakultatif St. Pontianus, St. Hippolitus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau/putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh18:1-10;Yeh18:13;Yeh18:30-32;\" target=\"_blank\">Yeh. 18:1-10,13b,30-32</a>; <a href=\"/alkitabq.php?q=Mzm51:12-13;Mzm51:14-15;Mzm51:18-19;\" target=\"_blank\">Mzm. 51:12-13,14-15,18-19</a>; <a href=\"/alkitabq.php?q=Mat19:13-15;\" target=\"_blank\">Mat. 19:13-15</a>. <br>\nBcO  <a href=\"/alkitabq.php?q=Za14:1-21;\" target=\"_blank\">Za. 14:1-21</a><br>\nSore: VIGILI HR SANTA PERAWAN  MARIA DIANGKAT KE SURGA <a href=\"/alkitabq.php?q=1Taw15:3-4;1Taw15:15-16;1Taw16:1-2;\" target=\"_blank\">1Taw. 15:3-4,15-16; 16:1-2</a>; <a href=\"/alkitabq.php?q=Mzm132:6-7;Mzm132:9-10;Mzm132:13-14;\" target=\"_blank\">Mzm. 132:6-7,9-10,13-14</a>; <a href=\"/alkitabq.php?q=1Kor15:54-57;\" target=\"_blank\">1Kor. 15:54b-57</a>; <a href=\"/alkitabq.php?q=Luk11:27-28;\" target=\"_blank\">Luk. 11:27-28</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh18:1-10;Yeh18:13;Yeh18:30-32;",
+                    "text": "Yeh. 18:1-10,13b,30-32"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm51:12-13;Mzm51:14-15;Mzm51:18-19;",
+                    "text": "Mzm. 51:12-13,14-15,18-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat19:13-15;",
+                    "text": "Mat. 19:13-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Za14:1-21;",
+                    "text": "BcO Za. 14:1-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Taw15:3-4;1Taw15:15-16;1Taw16:1-2;",
+                    "text": "Sore 1Taw. 15:3-4,15-16; 16:1-2"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm132:6-7;Mzm132:9-10;Mzm132:13-14;",
+                    "text": "Mzm. 132:6-7,9-10,13-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor15:54-57;",
+                    "text": "1Kor. 15:54b-57"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk11:27-28;",
+                    "text": "Luk. 11:27-28"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660410000000,
+        "localDate": "14 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/14Agu.html",
+        "name": "HARI RAYA SANTA PERAWAN MARIA DIANGKAT KE SURGA",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Why11:19;Why12:1-6;Why12:10;\" target=\"_blank\">Why. 11:19a; 12:1-6a,10ab</a>; <a href=\"/alkitabq.php?q=Mzm45:10;Mzm45:11;Mzm45:12;\" target=\"_blank\">Mzm. 45:10bc,11,12ab</a>; <a href=\"/alkitabq.php?q=1Kor15:20-26;\" target=\"_blank\">1Kor. 15:20-26</a>; <a href=\"/alkitabq.php?q=Luk1:39-56;\" target=\"_blank\">Luk. 1:39-56</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ef1:16;\" target=\"_blank\">Ef. 1:16</a>�2:10 atau <a href=\"/alkitabq.php?q=Why12:1-17;\" target=\"_blank\">Why. 12:1-17</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why11:19;Why12:1-6;Why12:10;",
+                    "text": "Why. 11:19a; 12:1-6a,10ab"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm45:10;Mzm45:11;Mzm45:12;",
+                    "text": "Mzm. 45:10bc,11,12ab"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor15:20-26;",
+                    "text": "1Kor. 15:20-26"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk1:39-56;",
+                    "text": "Luk. 1:39-56"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ef1:16;",
+                    "text": "BcO Ef. 1:16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why12:1-17;",
+                    "text": "�2 Why. 12:1-17"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660496400000,
+        "localDate": "15 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/15Agu.html",
+        "name": "Peringatan fakultatif St. Tarsisius",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh24:15-24;\" target=\"_blank\">Yeh. 24:15-24</a>; MT <a href=\"/alkitabq.php?q=Ul32:18-19;Ul32:20;Ul32:21;\" target=\"_blank\">Ul. 32:18-19,20,21</a>; <a href=\"/alkitabq.php?q=Mat19:16-22;\" target=\"_blank\">Mat. 19:16-22</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Pkh2:1-26;\" target=\"_blank\">Pkh. 2:1-26</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh24:15-24;",
+                    "text": "Yeh. 24:15-24"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ul32:18-19;Ul32:20;Ul32:21;",
+                    "text": "MT Ul. 32:18-19,20,21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat19:16-22;",
+                    "text": "Mat. 19:16-22"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Pkh2:1-26;",
+                    "text": "BcO Pkh. 2:1-26"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660582800000,
+        "localDate": "16 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/16Agu.html",
+        "name": "Peringatan fakultatif St. Stefanus dr Hungaria",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh28:1-10;\" target=\"_blank\">Yeh. 28:1-10</a>; MT <a href=\"/alkitabq.php?q=Ul32:26-27;Ul32:27-28;Ul32:30;Ul32:35-36;\" target=\"_blank\">Ul. 32:26-27ab,27cd-28,30,35cd-36d</a>; <a href=\"/alkitabq.php?q=Mat19:23-30;\" target=\"_blank\">Mat. 19:23-30</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Pkh3:1-22;\" target=\"_blank\">Pkh. 3:1-22</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh28:1-10;",
+                    "text": "Yeh. 28:1-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ul32:26-27;Ul32:27-28;Ul32:30;Ul32:35-36;",
+                    "text": "MT Ul. 32:26-27ab,27cd-28,30,35cd-36d"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat19:23-30;",
+                    "text": "Mat. 19:23-30"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Pkh3:1-22;",
+                    "text": "BcO Pkh. 3:1-22"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660669200000,
+        "localDate": "17 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/17Agu.html",
+        "name": "HARI RAYA KEMERDEKAAN REPUBLIK INDONESIA",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Sir10:1-8;\" target=\"_blank\">Sir. 10:1-8</a>; <a href=\"/alkitabq.php?q=Mzm101:1;Mzm101:2;Mzm101:3;Mzm101:6-7;\" target=\"_blank\">Mzm. 101:1a,2ac, 3a,6-7</a>; <a href=\"/alkitabq.php?q=1Ptr2:13-17;\" target=\"_blank\">1Ptr. 2:13-17</a>; <a href=\"/alkitabq.php?q=Mat22:15-21;\" target=\"_blank\">Mat. 22:15-21</a>. <br>\nBcO  <a href=\"/alkitabq.php?q=Gal5:1-26;\" target=\"_blank\">Gal. 5:1-26</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Sir10:1-8;",
+                    "text": "Sir. 10:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm101:1;Mzm101:2;Mzm101:3;Mzm101:6-7;",
+                    "text": "Mzm. 101:1a,2ac, 3a,6-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Ptr2:13-17;",
+                    "text": "1Ptr. 2:13-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat22:15-21;",
+                    "text": "Mat. 22:15-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Gal5:1-26;",
+                    "text": "BcO Gal. 5:1-26"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660755600000,
+        "localDate": "18 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/18Agu.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh36:23-28;\" target=\"_blank\">Yeh. 36:23-28</a>; <a href=\"/alkitabq.php?q=Mzm51:12-13;Mzm51:14-15;Mzm51:18-19;\" target=\"_blank\">Mzm. 51:12-13,14-15,18-19</a>; <a href=\"/alkitabq.php?q=Mat22:1-14;\" target=\"_blank\">Mat. 22:1-14</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Pkh6:12;\" target=\"_blank\">Pkh. 6:12</a>�7:28.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh36:23-28;",
+                    "text": "Yeh. 36:23-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm51:12-13;Mzm51:14-15;Mzm51:18-19;",
+                    "text": "Mzm. 51:12-13,14-15,18-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat22:1-14;",
+                    "text": "Mat. 22:1-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Pkh6:12;",
+                    "text": "BcO Pkh. 6:12"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660842000000,
+        "localDate": "19 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/19Agu.html",
+        "name": "Peringatan fakultatif St. Yohanes Eudes",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh37:1-14;\" target=\"_blank\">Yeh. 37:1-14</a>; <a href=\"/alkitabq.php?q=Mzm107:2-3;Mzm107:4-5;Mzm107:6-7;Mzm107:8-9;\" target=\"_blank\">Mzm. 107:2-3,4-5,6-7,8-9</a>; <a href=\"/alkitabq.php?q=Mat22:34-40;\" target=\"_blank\">Mat. 22:34-40</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Pkh8:5;\" target=\"_blank\">Pkh. 8:5</a>�9:10.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh37:1-14;",
+                    "text": "Yeh. 37:1-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm107:2-3;Mzm107:4-5;Mzm107:6-7;Mzm107:8-9;",
+                    "text": "Mzm. 107:2-3,4-5,6-7,8-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat22:34-40;",
+                    "text": "Mat. 22:34-40"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Pkh8:5;",
+                    "text": "BcO Pkh. 8:5"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1660928400000,
+        "localDate": "20 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/20Agu.html",
+        "name": "Peringatan Wajib St. Bernardus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yeh43:1-7;\" target=\"_blank\">Yeh. 43:1-7a</a>; <a href=\"/alkitabq.php?q=Mzm85:9-10;Mzm85:11-12;Mzm85:13-14;\" target=\"_blank\">Mzm. 85:9ab-10,11-12,13-14</a>; <a href=\"/alkitabq.php?q=Mat23:1-12;\" target=\"_blank\">Mat. 23:1-12</a>;   <br>\nBcO <a href=\"/alkitabq.php?q=Pkh11:7;\" target=\"_blank\">Pkh. 11:7</a>�12:14",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yeh43:1-7;",
+                    "text": "Yeh. 43:1-7a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm85:9-10;Mzm85:11-12;Mzm85:13-14;",
+                    "text": "Mzm. 85:9ab-10,11-12,13-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat23:1-12;",
+                    "text": "Mat. 23:1-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Pkh11:7;",
+                    "text": "BcO Pkh. 11:7"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661014800000,
+        "localDate": "21 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/21Agu.html",
+        "name": "Hari Minggu Biasa XXI",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes66:18-21;\" target=\"_blank\">Yes. 66:18-21</a>; <a href=\"/alkitabq.php?q=Mzm117:1;Mzm117:2;\" target=\"_blank\">Mzm. 117:1,2</a>,; <a href=\"/alkitabq.php?q=Ibr12:5-7;Ibr12:11-13;\" target=\"_blank\">Ibr. 12:5-7,11-13</a>; <a href=\"/alkitabq.php?q=Luk13:22-30;\" target=\"_blank\">Luk. 13:22-30</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Tit1:1-16;\" target=\"_blank\">Tit. 1:1-16</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes66:18-21;",
+                    "text": "Yes. 66:18-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm117:1;Mzm117:2;",
+                    "text": "Mzm. 117:1,2"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ibr12:5-7;Ibr12:11-13;",
+                    "text": "Ibr. 12:5-7,11-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk13:22-30;",
+                    "text": "Luk. 13:22-30"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Tit1:1-16;",
+                    "text": "BcO Tit. 1:1-16"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661101200000,
+        "localDate": "22 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/22Agu.html",
+        "name": "Peringatan Wajib Santa Perawan Maria, Ratu",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=2Tes1:1-5;2Tes1:11-12;\" target=\"_blank\">2Tes. 1:1-5,11b-12</a>; <a href=\"/alkitabq.php?q=Mzm96:1-2;Mzm96:2-3;Mzm96:4-5;\" target=\"_blank\">Mzm. 96:1-2a,2b-3,4-5</a>; <a href=\"/alkitabq.php?q=Mat23:13-22;\" target=\"_blank\">Mat. 23:13-22</a>;  <br>\nBcO <a href=\"/alkitabq.php?q=Tit2:1;\" target=\"_blank\">Tit. 2:1</a>�3:2.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Tes1:1-5;2Tes1:11-12;",
+                    "text": "2Tes. 1:1-5,11b-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm96:1-2;Mzm96:2-3;Mzm96:4-5;",
+                    "text": "Mzm. 96:1-2a,2b-3,4-5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat23:13-22;",
+                    "text": "Mat. 23:13-22"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Tit2:1;",
+                    "text": "BcO Tit. 2:1"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661187600000,
+        "localDate": "23 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/23Agu.html",
+        "name": "Peringatan fakultatif St. Rosa dr Lima",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=2Tes2:1-3;2Tes2:13-17;\" target=\"_blank\">2Tes. 2:1-3a,13b-17</a>; <a href=\"/alkitabq.php?q=Mzm96:10;Mzm96:11-12;Mzm96:12-13;\" target=\"_blank\">Mzm. 96:10,11-12a,12b-13</a>; <a href=\"/alkitabq.php?q=Mat23:23-26;\" target=\"_blank\">Mat. 23:23-26</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Tit3:3-15;\" target=\"_blank\">Tit. 3:3-15</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Tes2:1-3;2Tes2:13-17;",
+                    "text": "2Tes. 2:1-3a,13b-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm96:10;Mzm96:11-12;Mzm96:12-13;",
+                    "text": "Mzm. 96:10,11-12a,12b-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat23:23-26;",
+                    "text": "Mat. 23:23-26"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Tit3:3-15;",
+                    "text": "BcO Tit. 3:3-15"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661274000000,
+        "localDate": "24 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/24Agu.html",
+        "name": "Pesta St. Bartolomeus Rasul",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Why21:9-14;\" target=\"_blank\">Why. 21:9b-14</a>; <a href=\"/alkitabq.php?q=Mzm145:10-11;Mzm145:12-13;Mzm145:17-18;\" target=\"_blank\">Mzm. 145:10-11,12-13ab,17-18</a>; <a href=\"/alkitabq.php?q=Yoh1:45-51;\" target=\"_blank\">Yoh. 1:45-51</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Kis5:12-32;\" target=\"_blank\">Kis. 5:12-32</a> atau <a href=\"/alkitabq.php?q=1Kor1:17;\" target=\"_blank\">1Kor. 1:17</a>�2:5 atau <a href=\"/alkitabq.php?q=1Kor4:1-16;\" target=\"_blank\">1Kor. 4:1-16</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Why21:9-14;",
+                    "text": "Why. 21:9b-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm145:10-11;Mzm145:12-13;Mzm145:17-18;",
+                    "text": "Mzm. 145:10-11,12-13ab,17-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh1:45-51;",
+                    "text": "Yoh. 1:45-51"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis5:12-32;1Kor1:17;",
+                    "text": "BcO Kis. 5:12-32 atau 1Kor. 1:17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor4:1-16;",
+                    "text": "�2 1Kor. 4:1-16"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661360400000,
+        "localDate": "25 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/25Agu.html",
+        "name": "Peringatan fakultatif St. Ludovikus, St. Yosef dr Calasanz",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Kor1:1-9;\" target=\"_blank\">1Kor. 1:1-9</a>; <a href=\"/alkitabq.php?q=Mzm145:2-3;Mzm145:4-5;Mzm145:6-7;\" target=\"_blank\">Mzm. 145:2-3,4-5,6-7</a>; <a href=\"/alkitabq.php?q=Mat24:42-51;\" target=\"_blank\">Mat. 24:42-51</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Tim2:1-15;\" target=\"_blank\">1Tim. 2:1-15</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor1:1-9;",
+                    "text": "1Kor. 1:1-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm145:2-3;Mzm145:4-5;Mzm145:6-7;",
+                    "text": "Mzm. 145:2-3,4-5,6-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat24:42-51;",
+                    "text": "Mat. 24:42-51"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim2:1-15;",
+                    "text": "BcO 1Tim. 2:1-15"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661446800000,
+        "localDate": "26 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/26Agu.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Kor1:17-25;\" target=\"_blank\">1Kor. 1:17-25</a>; <a href=\"/alkitabq.php?q=Mzm33:1-2;Mzm33:4-5;Mzm33:10;Mzm33:11;\" target=\"_blank\">Mzm. 33:1-2,4-5,10ab,11</a>; <a href=\"/alkitabq.php?q=Mat25:1-13;\" target=\"_blank\">Mat. 25:1-13</a>. <br>\nBcO  <a href=\"/alkitabq.php?q=1Tim3:1-16;\" target=\"_blank\">1Tim. 3:1-16</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor1:17-25;",
+                    "text": "1Kor. 1:17-25"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm33:1-2;Mzm33:4-5;Mzm33:10;Mzm33:11;",
+                    "text": "Mzm. 33:1-2,4-5,10ab,11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat25:1-13;",
+                    "text": "Mat. 25:1-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim3:1-16;",
+                    "text": "BcO 1Tim. 3:1-16"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661533200000,
+        "localDate": "27 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/27Agu.html",
+        "name": "Peringatan Wajib St. Monika",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Kor1:26-31;\" target=\"_blank\">1Kor. 1:26-31</a>; <a href=\"/alkitabq.php?q=Mzm33:12-13;Mzm33:18-19;Mzm33:20-21;\" target=\"_blank\">Mzm. 33:12-13,18-19,20-21</a>; <a href=\"/alkitabq.php?q=Mat25:14-30;\" target=\"_blank\">Mat 25:14-30</a>,  <br>\nBcO <a href=\"/alkitabq.php?q=1Tim4:1-99;1Tim5:1-2;\" target=\"_blank\">1Tim 4:1-5:2</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor1:26-31;",
+                    "text": "1Kor. 1:26-31"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm33:12-13;Mzm33:18-19;Mzm33:20-21;",
+                    "text": "Mzm. 33:12-13,18-19,20-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat25:14-30;",
+                    "text": "Mat 25:14-30"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim4:1-99;1Tim5:1-2;",
+                    "text": "BcO 1Tim 4:1-5:2"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661619600000,
+        "localDate": "28 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/28Agu.html",
+        "name": "Hari Minggu Biasa XXII",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Sir3:17-18;Sir3:20;Sir3:28-29;\" target=\"_blank\">Sir. 3:17-18,20,28-29</a>; <a href=\"/alkitabq.php?q=Mzm68:4-5;Mzm68:6-7;Mzm68:10-11;\" target=\"_blank\">Mzm. 68:4-5ac,6-7ab,10-11</a>; <a href=\"/alkitabq.php?q=Ibr12:18-19;Ibr12:22-24;\" target=\"_blank\">Ibr. 12:18-19,22-24a</a>; <a href=\"/alkitabq.php?q=Luk14:1;Luk14:7-14;\" target=\"_blank\">Luk. 14:1,7-14</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Tim5:3-25;\" target=\"_blank\">1Tim. 5:3-25</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Sir3:17-18;Sir3:20;Sir3:28-29;",
+                    "text": "Sir. 3:17-18,20,28-29"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm68:4-5;Mzm68:6-7;Mzm68:10-11;",
+                    "text": "Mzm. 68:4-5ac,6-7ab,10-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ibr12:18-19;Ibr12:22-24;",
+                    "text": "Ibr. 12:18-19,22-24a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk14:1;Luk14:7-14;",
+                    "text": "Luk. 14:1,7-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim5:3-25;",
+                    "text": "BcO 1Tim. 5:3-25"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661706000000,
+        "localDate": "29 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/29Agu.html",
+        "name": "Peringatan Wajib Wafatnya St. Yohanes Pembaptis",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer1:17-19;\" target=\"_blank\">Yer. 1:17-19</a>; <a href=\"/alkitabq.php?q=Mzm71:1-4;Mzm71:5-6;Mzm71:17;\" target=\"_blank\">Mzm. 71:1-4.5-6b.17</a>;R:15a; <a href=\"/alkitabq.php?q=Mrk6:17-29;\" target=\"_blank\">Mrk. 6:17-29</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Tim6:1-10;\" target=\"_blank\">1Tim 6:1-10</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer1:17-19;",
+                    "text": "Yer. 1:17-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm71:1-4;Mzm71:5-6;Mzm71:17;",
+                    "text": "Mzm. 71:1-4.5-6b.17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mrk6:17-29;",
+                    "text": ":15a Mrk. 6:17-29"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim6:1-10;",
+                    "text": "BcO 1Tim 6:1-10"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661792400000,
+        "localDate": "30 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/30Agu.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Kor2:10-16;\" target=\"_blank\">1Kor. 2:10b-16</a>; <a href=\"/alkitabq.php?q=Mzm145:8-9;Mzm145:10-11;Mzm145:12-13;Mzm145:13-14;\" target=\"_blank\">Mzm. 145:8-9,10-11,12-13ab,13cd-14</a>; <a href=\"/alkitabq.php?q=Luk4:31-37;\" target=\"_blank\">Luk. 4:31-37</a>. <br>\nBcO <a href=\"/alkitabq.php?q=1Tim6:11-21;\" target=\"_blank\">1Tim. 6:11-21</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor2:10-16;",
+                    "text": "1Kor. 2:10b-16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm145:8-9;Mzm145:10-11;Mzm145:12-13;Mzm145:13-14;",
+                    "text": "Mzm. 145:8-9,10-11,12-13ab,13cd-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk4:31-37;",
+                    "text": "Luk. 4:31-37"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Tim6:11-21;",
+                    "text": "BcO 1Tim. 6:11-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1661878800000,
+        "localDate": "31 Agustus 2022",
+        "url": "https://www.imankatolik.or.id/kalender/31Agu.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Kor3:1-9;\" target=\"_blank\">1Kor. 3:1-9</a>; <a href=\"/alkitabq.php?q=Mzm33:12-13;Mzm33:14-15;Mzm33:20-21;\" target=\"_blank\">Mzm. 33:12-13,14-15,20-21</a>; <a href=\"/alkitabq.php?q=Luk4:38-44;\" target=\"_blank\">Luk. 4:38-44</a>. <br>\nBcO <a href=\"/alkitabq.php?q=2Tim1:1-18;\" target=\"_blank\">2Tim. 1:1-18</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor3:1-9;",
+                    "text": "1Kor. 3:1-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm33:12-13;Mzm33:14-15;Mzm33:20-21;",
+                    "text": "Mzm. 33:12-13,14-15,20-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk4:38-44;",
+                    "text": "Luk. 4:38-44"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Tim1:1-18;",
+                    "text": "BcO 2Tim. 1:1-18"
+                }
+            ]
+        }
+    }
+]

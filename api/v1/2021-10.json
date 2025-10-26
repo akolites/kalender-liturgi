@@ -1,6 +1,6 @@
 [
     {
-        "date": "2021-10-01T00:00:00.000Z",
+        "date": 1633021200000,
         "localDate": "1 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/1Okt.html",
         "name": "Pesta St. Teresia dr Kanak-kanak Yesus",
@@ -30,13 +30,13 @@
         }
     },
     {
-        "date": "2021-10-02T00:00:00.000Z",
+        "date": 1633107600000,
         "localDate": "2 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/2Okt.html",
         "name": "Peringatan Wajib Para Malaikat Pelindung Hari Sabtu Imam",
         "dayColor": "#000000",
         "dayType": "biasa",
-        "color": "putih\n",
+        "color": "putih",
         "readings": {
             "innerHTML": "<a href=\"/alkitabq.php?q=Bar4:5-12;Bar4:27-29;\" target=\"_blank\">Bar. 4:5-12.27-29</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm69:33-35;Mzm69:36-37;\" target=\"_blank\">Mzm. 69:33-35.36-37</a>; <br>\n<a href=\"/alkitabq.php?q=Luk10:17-24;\" target=\"_blank\">Luk. 10:17-24</a>; <br>\nBcO <a href=\"/alkitabq.php?q=2Raj20:1-19;\" target=\"_blank\">2 Raj 20:1-19</a>",
             "links": [
@@ -60,7 +60,7 @@
         }
     },
     {
-        "date": "2021-10-03T00:00:00.000Z",
+        "date": 1633194000000,
         "localDate": "3 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/3Okt.html",
         "name": "Hari Minggu Biasa XXVII",
@@ -94,7 +94,7 @@
         }
     },
     {
-        "date": "2021-10-04T00:00:00.000Z",
+        "date": 1633280400000,
         "localDate": "4 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/4Okt.html",
         "name": "Peringatan Wajib Fransiskus dr Assisi",
@@ -124,7 +124,7 @@
         }
     },
     {
-        "date": "2021-10-05T00:00:00.000Z",
+        "date": 1633366800000,
         "localDate": "5 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/5Okt.html",
         "name": "Faustina Kowalska",
@@ -154,13 +154,13 @@
         }
     },
     {
-        "date": "2021-10-06T00:00:00.000Z",
+        "date": 1633453200000,
         "localDate": "6 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/6Okt.html",
         "name": "Bruno",
         "dayColor": "#000000",
         "dayType": "biasa",
-        "color": "hijau\n",
+        "color": "hijau",
         "readings": {
             "innerHTML": "<a href=\"/alkitabq.php?q=Yun4:1-11;\" target=\"_blank\">Yun. 4:1-11</a>; <br>\n<a href=\"/alkitabq.php?q=Mzm86:3-4;Mzm86:5-6;Mzm86:9-10;\" target=\"_blank\">Mzm. 86:3-4,5-6,9-10</a>;<br>\n<a href=\"/alkitabq.php?q=Luk11:1-4;\" target=\"_blank\">Luk. 11:1-4</a>. <br>\nBcO <a href=\"/alkitabq.php?q=2Raj18:37-99;2Raj19:1-19;2Raj18:35-99;2Raj19:1-37;\" target=\"_blank\">2Raj. 18:37-19:19.35-37</a>",
             "links": [
@@ -184,7 +184,7 @@
         }
     },
     {
-        "date": "2021-10-07T00:00:00.000Z",
+        "date": 1633539600000,
         "localDate": "7 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/7Okt.html",
         "name": "Peringatan Wajib Santa Perawan Maria, Ratu Rosario",
@@ -214,7 +214,7 @@
         }
     },
     {
-        "date": "2021-10-08T00:00:00.000Z",
+        "date": 1633626000000,
         "localDate": "8 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/8Okt.html",
         "name": "Hari biasa",
@@ -244,7 +244,7 @@
         }
     },
     {
-        "date": "2021-10-09T00:00:00.000Z",
+        "date": 1633712400000,
         "localDate": "9 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/9Okt.html",
         "name": "Dionisius, Yohanes Leonardus",
@@ -274,7 +274,7 @@
         }
     },
     {
-        "date": "2021-10-10T00:00:00.000Z",
+        "date": 1633798800000,
         "localDate": "10 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/10Okt.html",
         "name": "Hari Minggu Biasa XXVIII",
@@ -308,7 +308,7 @@
         }
     },
     {
-        "date": "2021-10-11T00:00:00.000Z",
+        "date": 1633885200000,
         "localDate": "11 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/11Okt.html",
         "name": "Yohanes XXIII",
@@ -338,7 +338,7 @@
         }
     },
     {
-        "date": "2021-10-12T00:00:00.000Z",
+        "date": 1633971600000,
         "localDate": "12 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/12Okt.html",
         "name": "Hari biasa",
@@ -368,7 +368,7 @@
         }
     },
     {
-        "date": "2021-10-13T00:00:00.000Z",
+        "date": 1634058000000,
         "localDate": "13 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/13Okt.html",
         "name": "Hari biasa",
@@ -398,7 +398,7 @@
         }
     },
     {
-        "date": "2021-10-14T00:00:00.000Z",
+        "date": 1634144400000,
         "localDate": "14 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/14Okt.html",
         "name": "Kalistus I",
@@ -428,7 +428,7 @@
         }
     },
     {
-        "date": "2021-10-15T00:00:00.000Z",
+        "date": 1634230800000,
         "localDate": "15 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/15Okt.html",
         "name": "Peringatan Wajib Teresia dari Yesus",
@@ -458,10 +458,10 @@
         }
     },
     {
-        "date": "2021-10-16T00:00:00.000Z",
+        "date": 1634317200000,
         "localDate": "16 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/16Okt.html",
-        "name": "Hedwig, Margarita Maria Alacoque ",
+        "name": "Hedwig, Margarita Maria Alacoque",
         "dayColor": "#000000",
         "dayType": "biasa",
         "color": "hijau",
@@ -488,7 +488,7 @@
         }
     },
     {
-        "date": "2021-10-17T00:00:00.000Z",
+        "date": 1634403600000,
         "localDate": "17 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/17Okt.html",
         "name": "Hari Minggu Biasa XXIX",
@@ -522,7 +522,7 @@
         }
     },
     {
-        "date": "2021-10-18T00:00:00.000Z",
+        "date": 1634490000000,
         "localDate": "18 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/18Okt.html",
         "name": "Pesta St. Lukas",
@@ -552,7 +552,7 @@
         }
     },
     {
-        "date": "2021-10-19T00:00:00.000Z",
+        "date": 1634576400000,
         "localDate": "19 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/19Okt.html",
         "name": "Yohanes de Brebeuf dan Isaac Jogues, Paulus dari Salib",
@@ -582,7 +582,7 @@
         }
     },
     {
-        "date": "2021-10-20T00:00:00.000Z",
+        "date": 1634662800000,
         "localDate": "20 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/20Okt.html",
         "name": "Hari biasa",
@@ -612,7 +612,7 @@
         }
     },
     {
-        "date": "2021-10-21T00:00:00.000Z",
+        "date": 1634749200000,
         "localDate": "21 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/21Okt.html",
         "name": "Hari biasa",
@@ -642,7 +642,7 @@
         }
     },
     {
-        "date": "2021-10-22T00:00:00.000Z",
+        "date": 1634835600000,
         "localDate": "22 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/22Okt.html",
         "name": "Yohanes Paulus II",
@@ -672,7 +672,7 @@
         }
     },
     {
-        "date": "2021-10-23T00:00:00.000Z",
+        "date": 1634922000000,
         "localDate": "23 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/23Okt.html",
         "name": "St. Yohanes dari Kapestrano, Pelindung para pastor tentara",
@@ -702,7 +702,7 @@
         }
     },
     {
-        "date": "2021-10-24T00:00:00.000Z",
+        "date": 1635008400000,
         "localDate": "24 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/24Okt.html",
         "name": "Hari Minggu Biasa XXX Hari Minggu Misi",
@@ -736,7 +736,7 @@
         }
     },
     {
-        "date": "2021-10-25T00:00:00.000Z",
+        "date": 1635094800000,
         "localDate": "25 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/25Okt.html",
         "name": "Hari biasa",
@@ -766,7 +766,7 @@
         }
     },
     {
-        "date": "2021-10-26T00:00:00.000Z",
+        "date": 1635181200000,
         "localDate": "26 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/26Okt.html",
         "name": "Hari biasa",
@@ -796,7 +796,7 @@
         }
     },
     {
-        "date": "2021-10-27T00:00:00.000Z",
+        "date": 1635267600000,
         "localDate": "27 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/27Okt.html",
         "name": "Hari biasa",
@@ -826,7 +826,7 @@
         }
     },
     {
-        "date": "2021-10-28T00:00:00.000Z",
+        "date": 1635354000000,
         "localDate": "28 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/28Okt.html",
         "name": "Pesta St. Simon dan Yudas Rasul",
@@ -856,7 +856,7 @@
         }
     },
     {
-        "date": "2021-10-29T00:00:00.000Z",
+        "date": 1635440400000,
         "localDate": "29 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/29Okt.html",
         "name": "Hari biasa",
@@ -886,7 +886,7 @@
         }
     },
     {
-        "date": "2021-10-30T00:00:00.000Z",
+        "date": 1635526800000,
         "localDate": "30 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/30Okt.html",
         "name": "Hari biasa",
@@ -916,7 +916,7 @@
         }
     },
     {
-        "date": "2021-10-31T00:00:00.000Z",
+        "date": 1635613200000,
         "localDate": "31 Oktober 2021",
         "url": "https://www.imankatolik.or.id/kalender/31Okt.html",
         "name": "Hari Minggu Biasa XXXI",

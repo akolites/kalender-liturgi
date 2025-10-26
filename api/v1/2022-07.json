@@ -1,0 +1,956 @@
+[
+    {
+        "date": 1656608400000,
+        "localDate": "1 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/1Jul.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Am8:4-6;Am8:9-12;\" target=\"_blank\">Am. 8:4-6,9-12</a>; <a href=\"/alkitabq.php?q=Mzm119:2;Mzm119:10;Mzm119:20;Mzm119:30;Mzm119:40;Mzm119:131;\" target=\"_blank\">Mzm. 119:2,10,20,30,40,131</a>; <a href=\"/alkitabq.php?q=Mat9:9-13;\" target=\"_blank\">Mat. 9:9-13</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Neh12:27-47;\" target=\"_blank\">Neh. 12:27-47</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Am8:4-6;Am8:9-12;",
+                    "text": "Am. 8:4-6,9-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm119:2;Mzm119:10;Mzm119:20;Mzm119:30;Mzm119:40;Mzm119:131;",
+                    "text": "Mzm. 119:2,10,20,30,40,131"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat9:9-13;",
+                    "text": "Mat. 9:9-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Neh12:27-47;",
+                    "text": "BcO Neh. 12:27-47"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1656694800000,
+        "localDate": "2 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/2Jul.html",
+        "name": "Hari Biasa Hari Sabtu Imam",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Am9:11-15;\" target=\"_blank\">Am. 9:11-15</a>; <a href=\"/alkitabq.php?q=Mzm85:9;Mzm85:11-12;Mzm85:13-14;\" target=\"_blank\">Mzm. 85:9,11-12,13-14</a>; <a href=\"/alkitabq.php?q=Mat9:14-17;\" target=\"_blank\">Mat. 9:14-17</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Yes59:1-14;\" target=\"_blank\">Yes. 59:1-14</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Am9:11-15;",
+                    "text": "Am. 9:11-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm85:9;Mzm85:11-12;Mzm85:13-14;",
+                    "text": "Mzm. 85:9,11-12,13-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat9:14-17;",
+                    "text": "Mat. 9:14-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes59:1-14;",
+                    "text": "BcO Yes. 59:1-14"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1656781200000,
+        "localDate": "3 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/3Jul.html",
+        "name": "Hari Minggu Biasa XIV",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes66:10-14;\" target=\"_blank\">Yes. 66:10-14c</a>; <a href=\"/alkitabq.php?q=Mzm66:1-3;Mzm66:4-5;Mzm66:6-7;Mzm66:16;Mzm66:20;\" target=\"_blank\">Mzm. 66:1-3a,4-5,6-7a,16,20</a>; <a href=\"/alkitabq.php?q=Gal6:14-18;\" target=\"_blank\">Gal. 6:14-18</a>; <a href=\"/alkitabq.php?q=Luk10:1-12;Luk10:17-20;\" target=\"_blank\">Luk. 10:1-12,17-20</a> <br>\nBcO <a href=\"/alkitabq.php?q=Ams1:1-7;Ams1:20-33;\" target=\"_blank\">Ams. 1:1-7,20-33</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes66:10-14;",
+                    "text": "Yes. 66:10-14c"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm66:1-3;Mzm66:4-5;Mzm66:6-7;Mzm66:16;Mzm66:20;",
+                    "text": "Mzm. 66:1-3a,4-5,6-7a,16,20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Gal6:14-18;",
+                    "text": "Gal. 6:14-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk10:1-12;Luk10:17-20;",
+                    "text": "Luk. 10:1-12,17-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ams1:1-7;Ams1:20-33;",
+                    "text": "BcO Ams. 1:1-7,20-33"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1656867600000,
+        "localDate": "4 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/4Jul.html",
+        "name": "Peringatan fakultatif St. Elisabet dr Portugal",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Hos2:13;Hos2:14-15;Hos2:18-19;\" target=\"_blank\">Hos. 2:13,14b-15,18-19</a>; <a href=\"/alkitabq.php?q=Mzm145:2-3;Mzm145:4-5;Mzm145:6-7;Mzm145:8-9;\" target=\"_blank\">Mzm. 145:2-3,4-5,6-7,8-9</a>; <a href=\"/alkitabq.php?q=Mat9:18-26;\" target=\"_blank\">Mat. 9:18-26</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ams3:1-20;\" target=\"_blank\">Ams. 3:1-20</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos2:13;Hos2:14-15;Hos2:18-19;",
+                    "text": "Hos. 2:13,14b-15,18-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm145:2-3;Mzm145:4-5;Mzm145:6-7;Mzm145:8-9;",
+                    "text": "Mzm. 145:2-3,4-5,6-7,8-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat9:18-26;",
+                    "text": "Mat. 9:18-26"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ams3:1-20;",
+                    "text": "BcO Ams. 3:1-20"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1656954000000,
+        "localDate": "5 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/5Jul.html",
+        "name": "Peringatan fakultatif St. Antonius Maria Zakkaria",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Hos8:4-7;Hos8:11-13;\" target=\"_blank\">Hos. 8:4-7,11-13</a>; <a href=\"/alkitabq.php?q=Mzm115:3-4;Mzm115:5-6;Mzm115:7-8;Mzm115:9-10;\" target=\"_blank\">Mzm. 115:3-4,5-6,7ab-8,9-10</a>; <a href=\"/alkitabq.php?q=Mat9:32-38;\" target=\"_blank\">Mat. 9:32-38</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ams8:1-5;Ams8:12-36;\" target=\"_blank\">Ams. 8:1-5,12-36</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos8:4-7;Hos8:11-13;",
+                    "text": "Hos. 8:4-7,11-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm115:3-4;Mzm115:5-6;Mzm115:7-8;Mzm115:9-10;",
+                    "text": "Mzm. 115:3-4,5-6,7ab-8,9-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat9:32-38;",
+                    "text": "Mat. 9:32-38"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ams8:1-5;Ams8:12-36;",
+                    "text": "BcO Ams. 8:1-5,12-36"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657040400000,
+        "localDate": "6 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/6Jul.html",
+        "name": "Peringatan fakultatif St. Maria Goretti",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Hos10:1-3;Hos10:7-8;Hos10:12;\" target=\"_blank\">Hos. 10:1-3,7-8,12</a>; <a href=\"/alkitabq.php?q=Mzm105:2-3;Mzm105:4-5;Mzm105:6-7;\" target=\"_blank\">Mzm. 105:2-3,4-5,6-7</a>; <a href=\"/alkitabq.php?q=Mat10:1-7;\" target=\"_blank\">Mat. 10:1-7</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ams9:1-18;\" target=\"_blank\">Ams. 9:1-18</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos10:1-3;Hos10:7-8;Hos10:12;",
+                    "text": "Hos. 10:1-3,7-8,12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm105:2-3;Mzm105:4-5;Mzm105:6-7;",
+                    "text": "Mzm. 105:2-3,4-5,6-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat10:1-7;",
+                    "text": "Mat. 10:1-7"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ams9:1-18;",
+                    "text": "BcO Ams. 9:1-18"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657126800000,
+        "localDate": "7 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/7Jul.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Hos11:1;Hos11:3-4;Hos11:8-9;\" target=\"_blank\">Hos. 11:1b,3-4,8c-9</a>; <a href=\"/alkitabq.php?q=Mzm80:2;Mzm80:3;Mzm80:15-16;\" target=\"_blank\">Mzm. 80:2ac,3b,15-16</a>; <a href=\"/alkitabq.php?q=Mat10:7-15;\" target=\"_blank\">Mat. 10:7-15</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ams10:6-32;\" target=\"_blank\">Ams. 10:6-32</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos11:1;Hos11:3-4;Hos11:8-9;",
+                    "text": "Hos. 11:1b,3-4,8c-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm80:2;Mzm80:3;Mzm80:15-16;",
+                    "text": "Mzm. 80:2ac,3b,15-16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat10:7-15;",
+                    "text": "Mat. 10:7-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ams10:6-32;",
+                    "text": "BcO Ams. 10:6-32"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657213200000,
+        "localDate": "8 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/8Jul.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Hos14:2-10;\" target=\"_blank\">Hos. 14:2-10</a>; <a href=\"/alkitabq.php?q=Mzm51:3-4;Mzm51:8-9;Mzm51:12-13;Mzm51:14;Mzm51:17;\" target=\"_blank\">Mzm. 51:3-4,8-9,12-13,14,17</a>; <a href=\"/alkitabq.php?q=Mat10:16-23;\" target=\"_blank\">Mat. 10:16-23</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ams15:8-30;Ams16:1-9;\" target=\"_blank\">Ams. 15:8-30; 16:1-9</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Hos14:2-10;",
+                    "text": "Hos. 14:2-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm51:3-4;Mzm51:8-9;Mzm51:12-13;Mzm51:14;Mzm51:17;",
+                    "text": "Mzm. 51:3-4,8-9,12-13,14,17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat10:16-23;",
+                    "text": "Mat. 10:16-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ams15:8-30;Ams16:1-9;",
+                    "text": "BcO Ams. 15:8-30; 16:1-9"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657299600000,
+        "localDate": "9 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/9Jul.html",
+        "name": "Peringatan fakultatif Pfak St. Gregorius Grassi, St. Agustinus Zhao Rong",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes6:1-8;\" target=\"_blank\">Yes. 6:1-8</a>; <a href=\"/alkitabq.php?q=Mzm93:1;Mzm93:1-2;Mzm93:5;\" target=\"_blank\">Mzm. 93:1ab,1c-2,5</a>; <a href=\"/alkitabq.php?q=Mat10:24-33;\" target=\"_blank\">Mat. 10:24-33</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ams31:10-31;\" target=\"_blank\">Ams. 31:10-31</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes6:1-8;",
+                    "text": "Yes. 6:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm93:1;Mzm93:1-2;Mzm93:5;",
+                    "text": "Mzm. 93:1ab,1c-2,5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat10:24-33;",
+                    "text": "Mat. 10:24-33"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ams31:10-31;",
+                    "text": "BcO Ams. 31:10-31"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657386000000,
+        "localDate": "10 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/10Jul.html",
+        "name": "Hari Minggu Biasa XV",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Ul30:10-14;\" target=\"_blank\">Ul. 30:10-14</a>; <a href=\"/alkitabq.php?q=Mzm69:14;Mzm69:17;Mzm69:30-31;Mzm69:33-34;Mzm69:36;Mzm69:37;\" target=\"_blank\">Mzm. 69:14,17,30-31,33-34,36ab,37</a> atau <a href=\"/alkitabq.php?q=Mzm19:8;Mzm19:9;Mzm19:10;Mzm19:11;\" target=\"_blank\">Mzm. 19:8,9,10,11</a>; <a href=\"/alkitabq.php?q=Kol1:15-20;\" target=\"_blank\">Kol. 1:15-20</a>; <a href=\"/alkitabq.php?q=Luk10:25-37;\" target=\"_blank\">Luk. 10:25-37</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb1:1-22;\" target=\"_blank\">Ayb. 1:1-22</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ul30:10-14;",
+                    "text": "Ul. 30:10-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm69:14;Mzm69:17;Mzm69:30-31;Mzm69:33-34;Mzm69:36;Mzm69:37;Mzm19:8;Mzm19:9;Mzm19:10;Mzm19:11;",
+                    "text": "Mzm. 69:14,17,30-31,33-34,36ab,37 atau Mzm. 19:8,9,10,11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol1:15-20;",
+                    "text": "Kol. 1:15-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk10:25-37;",
+                    "text": "Luk. 10:25-37"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb1:1-22;",
+                    "text": "BcO Ayb. 1:1-22"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657472400000,
+        "localDate": "11 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/11Jul.html",
+        "name": "Peringatan Wajib St. Benediktus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes1:11-17;\" target=\"_blank\">Yes. 1:11-17</a>; <a href=\"/alkitabq.php?q=Mzm50:8-9;Mzm50:16-17;Mzm50:21;Mzm50:23;\" target=\"_blank\">Mzm. 50:8-9,16bc-17,21,23</a>; <a href=\"/alkitabq.php?q=Mat10:34;\" target=\"_blank\">Mat. 10:34</a>�11:1; <br>\nBcO <a href=\"/alkitabq.php?q=Ayb2:1-13;\" target=\"_blank\">Ayb. 2:1-13</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes1:11-17;",
+                    "text": "Yes. 1:11-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm50:8-9;Mzm50:16-17;Mzm50:21;Mzm50:23;",
+                    "text": "Mzm. 50:8-9,16bc-17,21,23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat10:34;",
+                    "text": "Mat. 10:34"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb2:1-13;",
+                    "text": "BcO Ayb. 2:1-13"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657558800000,
+        "localDate": "12 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/12Jul.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes7:1-9;\" target=\"_blank\">Yes. 7:1-9</a>; <a href=\"/alkitabq.php?q=Mzm48:2-3;Mzm48:3-4;Mzm48:5-6;Mzm48:7-8;\" target=\"_blank\">Mzm. 48:2-3a,3b-4,5-6,7-8</a>; <a href=\"/alkitabq.php?q=Mat11:20-24;\" target=\"_blank\">Mat. 11:20-24</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb3:1-26;\" target=\"_blank\">Ayb. 3:1-26</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes7:1-9;",
+                    "text": "Yes. 7:1-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm48:2-3;Mzm48:3-4;Mzm48:5-6;Mzm48:7-8;",
+                    "text": "Mzm. 48:2-3a,3b-4,5-6,7-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat11:20-24;",
+                    "text": "Mat. 11:20-24"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb3:1-26;",
+                    "text": "BcO Ayb. 3:1-26"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657645200000,
+        "localDate": "13 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/13Jul.html",
+        "name": "Peringatan fakultatif St. Henrikus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes10:5-7;Yes10:13-16;\" target=\"_blank\">Yes. 10:5-7,13-16</a>; <a href=\"/alkitabq.php?q=Mzm94:5-6;Mzm94:7-8;Mzm94:9-10;Mzm94:14-15;\" target=\"_blank\">Mzm. 94:5-6,7-8,9-10,14-15</a>; <a href=\"/alkitabq.php?q=Mat11:25-27;\" target=\"_blank\">Mat. 11:25-27</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb4:1-21;\" target=\"_blank\">Ayb. 4:1-21</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes10:5-7;Yes10:13-16;",
+                    "text": "Yes. 10:5-7,13-16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm94:5-6;Mzm94:7-8;Mzm94:9-10;Mzm94:14-15;",
+                    "text": "Mzm. 94:5-6,7-8,9-10,14-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat11:25-27;",
+                    "text": "Mat. 11:25-27"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb4:1-21;",
+                    "text": "BcO Ayb. 4:1-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657731600000,
+        "localDate": "14 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/14Jul.html",
+        "name": "Peringatan fakultatif St. Kamillus dr Lellis",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes26:7-9;Yes26:12;Yes26:16-19;\" target=\"_blank\">Yes. 26:7-9,12,16-19</a>; <a href=\"/alkitabq.php?q=Mzm102:13-14;Mzm102:15;Mzm102:16-18;Mzm102:19-21;\" target=\"_blank\">Mzm. 102:13-14ab,15,16-18,19-21</a>; <a href=\"/alkitabq.php?q=Mat11:28-30;\" target=\"_blank\">Mat. 11:28-30</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb5:1-27;\" target=\"_blank\">Ayb. 5:1-27</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes26:7-9;Yes26:12;Yes26:16-19;",
+                    "text": "Yes. 26:7-9,12,16-19"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm102:13-14;Mzm102:15;Mzm102:16-18;Mzm102:19-21;",
+                    "text": "Mzm. 102:13-14ab,15,16-18,19-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat11:28-30;",
+                    "text": "Mat. 11:28-30"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb5:1-27;",
+                    "text": "BcO Ayb. 5:1-27"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657818000000,
+        "localDate": "15 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/15Jul.html",
+        "name": "Peringatan Wajib St. Bonaventura",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yes38:1-6;Yes38:21-22;Yes38:7-8;\" target=\"_blank\">Yes. 38:1-6,21-22,7-8</a>; MT <a href=\"/alkitabq.php?q=Yes38:10;Yes38:11;Yes38:12;Yes38:16;\" target=\"_blank\">Yes. 38:10,11,12abc,16</a>; <a href=\"/alkitabq.php?q=Mat12:1-8;\" target=\"_blank\">Mat. 12:1-8</a>;  <br>\nBcO <a href=\"/alkitabq.php?q=Ayb6:1-30;\" target=\"_blank\">Ayb. 6:1-30</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes38:1-6;Yes38:21-22;Yes38:7-8;",
+                    "text": "Yes. 38:1-6,21-22,7-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yes38:10;Yes38:11;Yes38:12;Yes38:16;",
+                    "text": "MT Yes. 38:10,11,12abc,16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat12:1-8;",
+                    "text": "Mat. 12:1-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb6:1-30;",
+                    "text": "BcO Ayb. 6:1-30"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657904400000,
+        "localDate": "16 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/16Jul.html",
+        "name": "Peringatan fakultatif St. Maria dr Gunung Karmel",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Mi2:1-5;\" target=\"_blank\">Mi. 2:1-5</a>; <a href=\"/alkitabq.php?q=Mzm10:1-2;Mzm10:3-4;Mzm10:7-8;Mzm10:14;\" target=\"_blank\">Mzm. 10:1-2,3-4,7-8,14</a>; <a href=\"/alkitabq.php?q=Mat12:14-21;\" target=\"_blank\">Mat. 12:14-21</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb7:1-21;\" target=\"_blank\">Ayb. 7:1-21</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mi2:1-5;",
+                    "text": "Mi. 2:1-5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm10:1-2;Mzm10:3-4;Mzm10:7-8;Mzm10:14;",
+                    "text": "Mzm. 10:1-2,3-4,7-8,14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat12:14-21;",
+                    "text": "Mat. 12:14-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb7:1-21;",
+                    "text": "BcO Ayb. 7:1-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1657990800000,
+        "localDate": "17 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/17Jul.html",
+        "name": "Hari Minggu Biasa XVI",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kej18:1-10;\" target=\"_blank\">Kej. 18:1-10a</a>; <a href=\"/alkitabq.php?q=Mzm15:2-3;Mzm15:3-4;Mzm15:5;\" target=\"_blank\">Mzm. 15:2-3ab,3cd-4ab,5</a>; <a href=\"/alkitabq.php?q=Kol1:24-28;\" target=\"_blank\">Kol. 1:24-28</a>; <a href=\"/alkitabq.php?q=Luk10:38-42;\" target=\"_blank\">Luk. 10:38-42</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb11:1-20;\" target=\"_blank\">Ayb. 11:1-20</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kej18:1-10;",
+                    "text": "Kej. 18:1-10a"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm15:2-3;Mzm15:3-4;Mzm15:5;",
+                    "text": "Mzm. 15:2-3ab,3cd-4ab,5"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol1:24-28;",
+                    "text": "Kol. 1:24-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk10:38-42;",
+                    "text": "Luk. 10:38-42"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb11:1-20;",
+                    "text": "BcO Ayb. 11:1-20"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658077200000,
+        "localDate": "18 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/18Jul.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "BcE <a href=\"/alkitabq.php?q=Mi6:1-4;Mi6:6-8;\" target=\"_blank\">Mi. 6:1-4,6-8</a>; <a href=\"/alkitabq.php?q=Mzm50:5-6;Mzm50:8-9;Mzm50:16-17;Mzm50:21;Mzm50:23;\" target=\"_blank\">Mzm. 50:5-6,8-9,16bc-17,21,23</a>; <a href=\"/alkitabq.php?q=Mat12:38-42;\" target=\"_blank\">Mat. 12:38-42</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb12:1-25;\" target=\"_blank\">Ayb. 12:1-25</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mi6:1-4;Mi6:6-8;",
+                    "text": "BcE Mi. 6:1-4,6-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm50:5-6;Mzm50:8-9;Mzm50:16-17;Mzm50:21;Mzm50:23;",
+                    "text": "Mzm. 50:5-6,8-9,16bc-17,21,23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat12:38-42;",
+                    "text": "Mat. 12:38-42"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb12:1-25;",
+                    "text": "BcO Ayb. 12:1-25"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658163600000,
+        "localDate": "19 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/19Jul.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Mi7:14-15;Mi7:18-20;\" target=\"_blank\">Mi. 7:14-15,18-20</a>; <a href=\"/alkitabq.php?q=Mzm85:2-4;Mzm85:5-6;Mzm85:7-8;\" target=\"_blank\">Mzm. 85:2-4,5-6,7-8</a>; <a href=\"/alkitabq.php?q=Mat12:46-50;\" target=\"_blank\">Mat. 12:46-50</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb13:13;\" target=\"_blank\">Ayb. 13:13</a>�14:6.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mi7:14-15;Mi7:18-20;",
+                    "text": "Mi. 7:14-15,18-20"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm85:2-4;Mzm85:5-6;Mzm85:7-8;",
+                    "text": "Mzm. 85:2-4,5-6,7-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat12:46-50;",
+                    "text": "Mat. 12:46-50"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb13:13;",
+                    "text": "BcO Ayb. 13:13"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658250000000,
+        "localDate": "20 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/20Jul.html",
+        "name": "Peringatan fakultatif St. Apolinaris",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer1:1;Yer1:4-10;\" target=\"_blank\">Yer. 1:1,4-10</a>; <a href=\"/alkitabq.php?q=Mzm71:1-2;Mzm71:3-4;Mzm71:5-6;Mzm71:15;Mzm71:17;\" target=\"_blank\">Mzm. 71:1-2,3-4a,5-6ab,15ab,17</a>; <a href=\"/alkitabq.php?q=Mat13:1-9;\" target=\"_blank\">Mat. 13:1-9</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb18:1-21;\" target=\"_blank\">Ayb. 18:1-21</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer1:1;Yer1:4-10;",
+                    "text": "Yer. 1:1,4-10"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm71:1-2;Mzm71:3-4;Mzm71:5-6;Mzm71:15;Mzm71:17;",
+                    "text": "Mzm. 71:1-2,3-4a,5-6ab,15ab,17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat13:1-9;",
+                    "text": "Mat. 13:1-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb18:1-21;",
+                    "text": "BcO Ayb. 18:1-21"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658336400000,
+        "localDate": "21 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/21Jul.html",
+        "name": "Peringatan fakultatif St. Laurensius dr Brindisi",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer2:1-3;Yer2:7-8;Yer2:12-13;\" target=\"_blank\">Yer. 2:1-3,7-8,12-13</a>; <a href=\"/alkitabq.php?q=Mzm36:6-7;Mzm36:8-9;Mzm36:10-11;\" target=\"_blank\">Mzm. 36:6-7ab,8-9,10-11</a>; <a href=\"/alkitabq.php?q=Mat13:10-17;\" target=\"_blank\">Mat. 13:10-17</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb19:1-29;\" target=\"_blank\">Ayb. 19:1-29</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer2:1-3;Yer2:7-8;Yer2:12-13;",
+                    "text": "Yer. 2:1-3,7-8,12-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm36:6-7;Mzm36:8-9;Mzm36:10-11;",
+                    "text": "Mzm. 36:6-7ab,8-9,10-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat13:10-17;",
+                    "text": "Mat. 13:10-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb19:1-29;",
+                    "text": "BcO Ayb. 19:1-29"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658422800000,
+        "localDate": "22 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/22Jul.html",
+        "name": "Pesta St. Maria Magdalena",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kid3:1-4;\" target=\"_blank\">Kid. 3:1-4a</a> atau <a href=\"/alkitabq.php?q=2Kor5:14-17;\" target=\"_blank\">2Kor. 5:14-17</a>; <a href=\"/alkitabq.php?q=Mzm63:2;Mzm63:3-4;Mzm63:5-6;Mzm63:8-9;\" target=\"_blank\">Mzm. 63:2,3-4,5-6,8-9</a>; <a href=\"/alkitabq.php?q=Yoh20:1;Yoh20:11-18;\" target=\"_blank\">Yoh. 20:1,11-18</a>.   <br>\nBcO <a href=\"/alkitabq.php?q=Rm12:1-21;\" target=\"_blank\">Rm. 12:1-21</a> atau <a href=\"/alkitabq.php?q=Kol3:1-17;\" target=\"_blank\">Kol. 3:1-17</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kid3:1-4;2Kor5:14-17;",
+                    "text": "Kid. 3:1-4a atau 2Kor. 5:14-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm63:2;Mzm63:3-4;Mzm63:5-6;Mzm63:8-9;",
+                    "text": "Mzm. 63:2,3-4,5-6,8-9"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh20:1;Yoh20:11-18;",
+                    "text": "Yoh. 20:1,11-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Rm12:1-21;Kol3:1-17;",
+                    "text": "BcO Rm. 12:1-21 atau Kol. 3:1-17"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658509200000,
+        "localDate": "23 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/23Jul.html",
+        "name": "Peringatan fakultatif St. Birgitta",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer7:1-11;\" target=\"_blank\">Yer. 7:1-11</a>; <a href=\"/alkitabq.php?q=Mzm84:3;Mzm84:4;Mzm84:5-6;Mzm84:8;Mzm84:11;\" target=\"_blank\">Mzm 84:3.4.5-6a.8a.11</a>; <a href=\"/alkitabq.php?q=Mat13:24-30;\" target=\"_blank\">Mat. 13:24-30</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb23:1;\" target=\"_blank\">Ayb. 23:1</a>�24:12",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer7:1-11;",
+                    "text": "Yer. 7:1-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm84:3;Mzm84:4;Mzm84:5-6;Mzm84:8;Mzm84:11;",
+                    "text": "Mzm 84:3.4.5-6a.8a.11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat13:24-30;",
+                    "text": "Mat. 13:24-30"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb23:1;",
+                    "text": "BcO Ayb. 23:1"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658595600000,
+        "localDate": "24 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/24Jul.html",
+        "name": "Hari Minggu Biasa XVII",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Kej18:20-32;\" target=\"_blank\">Kej. 18:20-32</a>; <a href=\"/alkitabq.php?q=Mzm138:1-2;Mzm138:2-3;Mzm138:6-7;Mzm138:7-8;\" target=\"_blank\">Mzm. 138:1-2a,2bc-3,6-7ab,7c-8</a>; <a href=\"/alkitabq.php?q=Kol2:12-14;\" target=\"_blank\">Kol. 2:12-14</a>; <a href=\"/alkitabq.php?q=Luk11:1-13;\" target=\"_blank\">Luk. 11:1-13</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb28:1-28;\" target=\"_blank\">Ayb. 28:1-28</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kej18:20-32;",
+                    "text": "Kej. 18:20-32"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm138:1-2;Mzm138:2-3;Mzm138:6-7;Mzm138:7-8;",
+                    "text": "Mzm. 138:1-2a,2bc-3,6-7ab,7c-8"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol2:12-14;",
+                    "text": "Kol. 2:12-14"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk11:1-13;",
+                    "text": "Luk. 11:1-13"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb28:1-28;",
+                    "text": "BcO Ayb. 28:1-28"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658682000000,
+        "localDate": "25 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/25Jul.html",
+        "name": "Pesta St. Yakobus Rasul",
+        "dayColor": "#0000ff",
+        "dayType": "pesta",
+        "color": "merah",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=2Kor4:7-15;\" target=\"_blank\">2Kor. 4:7-15</a>; <a href=\"/alkitabq.php?q=Mzm126:1-2;Mzm126:2-3;Mzm126:4-5;Mzm126:6;\" target=\"_blank\">Mzm. 126:1-2ab,2cd-3,4-5,6</a>; <a href=\"/alkitabq.php?q=Mat20:20-28;\" target=\"_blank\">Mat. 20:20-28</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Kis5:12-32;\" target=\"_blank\">Kis. 5:12-32</a> atau <a href=\"/alkitabq.php?q=1Kor1:17;\" target=\"_blank\">1Kor. 1:17</a>�2:5 atau <a href=\"/alkitabq.php?q=1Kor4:1-16;\" target=\"_blank\">1Kor. 4:1-16</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=2Kor4:7-15;",
+                    "text": "2Kor. 4:7-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm126:1-2;Mzm126:2-3;Mzm126:4-5;Mzm126:6;",
+                    "text": "Mzm. 126:1-2ab,2cd-3,4-5,6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat20:20-28;",
+                    "text": "Mat. 20:20-28"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kis5:12-32;1Kor1:17;",
+                    "text": "BcO Kis. 5:12-32 atau 1Kor. 1:17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Kor4:1-16;",
+                    "text": "�2 1Kor. 4:1-16"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658768400000,
+        "localDate": "26 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/26Jul.html",
+        "name": "Peringatan Wajib St. Yoakim dan Ana, Orangtua Santa Perawan Maria",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Sir44:1;Sir44:10-15;\" target=\"_blank\">Sir. 44:1,10-15</a>; <a href=\"/alkitabq.php?q=Mzm132:11;Mzm132:13-14;Mzm132:17-18;\" target=\"_blank\">Mzm. 132:11,13-14,17-18</a>; <a href=\"/alkitabq.php?q=Mat13:16-17;\" target=\"_blank\">Mat. 13:16-17</a>.   <br>\nBcO <a href=\"/alkitabq.php?q=Ayb31:1-23;Ayb31:35-37;\" target=\"_blank\">Ayb 31:1-23.35-37</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Sir44:1;Sir44:10-15;",
+                    "text": "Sir. 44:1,10-15"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm132:11;Mzm132:13-14;Mzm132:17-18;",
+                    "text": "Mzm. 132:11,13-14,17-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat13:16-17;",
+                    "text": "Mat. 13:16-17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb31:1-23;Ayb31:35-37;",
+                    "text": "BcO Ayb 31:1-23.35-37"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658854800000,
+        "localDate": "27 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/27Jul.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer15:10;Yer15:16-21;\" target=\"_blank\">Yer. 15:10,16-21</a>; <a href=\"/alkitabq.php?q=Mzm59:2-3;Mzm59:4-5;Mzm59:10-11;Mzm59:17-18;\" target=\"_blank\">Mzm. 59:2-3,4-5a,10-11,17-18</a>; <a href=\"/alkitabq.php?q=Mat13:44-46;\" target=\"_blank\">Mat. 13:44-46</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb32:1-6;Ayb33:1-22;\" target=\"_blank\">Ayb. 32:1-6; 33:1-22</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer15:10;Yer15:16-21;",
+                    "text": "Yer. 15:10,16-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm59:2-3;Mzm59:4-5;Mzm59:10-11;Mzm59:17-18;",
+                    "text": "Mzm. 59:2-3,4-5a,10-11,17-18"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat13:44-46;",
+                    "text": "Mat. 13:44-46"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb32:1-6;Ayb33:1-22;",
+                    "text": "BcO Ayb. 32:1-6; 33:1-22"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1658941200000,
+        "localDate": "28 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/28Jul.html",
+        "name": "Hari Biasa",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer18:1-6;\" target=\"_blank\">Yer. 18:1-6</a>; <a href=\"/alkitabq.php?q=Mzm146:2;Mzm146:2-4;Mzm146:5-6;\" target=\"_blank\">Mzm. 146:2abc,2d-4,5-6</a>; <a href=\"/alkitabq.php?q=Mat13:47-53;\" target=\"_blank\">Mat. 13:47-53</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb38:1-30;Ayb40:1-5;\" target=\"_blank\">Ayb. 38:1-30; 40:1-5</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer18:1-6;",
+                    "text": "Yer. 18:1-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm146:2;Mzm146:2-4;Mzm146:5-6;",
+                    "text": "Mzm. 146:2abc,2d-4,5-6"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat13:47-53;",
+                    "text": "Mat. 13:47-53"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb38:1-30;Ayb40:1-5;",
+                    "text": "BcO Ayb. 38:1-30; 40:1-5"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659027600000,
+        "localDate": "29 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/29Jul.html",
+        "name": "Peringatan Wajib St. Marta, Maria dan Lazarus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "putih",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=1Yoh4:7-16;\" target=\"_blank\">1 Yoh. 4:7-16</a>; <a href=\"/alkitabq.php?q=Mzm34:2-3;Mzm34:4-5;Mzm34:6-7;Mzm34:8-9;Mzm34:10-11;\" target=\"_blank\">Mzm. 34:2-3,4-5,6-7,8-9,10-11</a>; <a href=\"/alkitabq.php?q=Yoh11:19-27;\" target=\"_blank\">Yoh. 11:19-27</a> atau <a href=\"/alkitabq.php?q=Luk10:38-42;\" target=\"_blank\">Luk. 10:38-42</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb40:6-24;Ayb42:1-6;\" target=\"_blank\">Ayb. 40:6-24; 42:1-6</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=1Yoh4:7-16;",
+                    "text": "1 Yoh. 4:7-16"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm34:2-3;Mzm34:4-5;Mzm34:6-7;Mzm34:8-9;Mzm34:10-11;",
+                    "text": "Mzm. 34:2-3,4-5,6-7,8-9,10-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yoh11:19-27;Luk10:38-42;",
+                    "text": "Yoh. 11:19-27 atau Luk. 10:38-42"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb40:6-24;Ayb42:1-6;",
+                    "text": "BcO Ayb. 40:6-24; 42:1-6"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659114000000,
+        "localDate": "30 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/30Jul.html",
+        "name": "Peringatan fakultatif St. Petrus Krisologus",
+        "dayColor": "#000000",
+        "dayType": "biasa",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Yer26:11-16;Yer26:24;\" target=\"_blank\">Yer. 26:11-16,24</a>; <a href=\"/alkitabq.php?q=Mzm69:15-16;Mzm69:30-31;Mzm69:33-34;\" target=\"_blank\">Mzm. 69:15-16,30-31,33-34</a>; <a href=\"/alkitabq.php?q=Mat14:1-12;\" target=\"_blank\">Mat. 14:1-12</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ayb42:7-17;\" target=\"_blank\">Ayb. 42:7-17</a>",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Yer26:11-16;Yer26:24;",
+                    "text": "Yer. 26:11-16,24"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm69:15-16;Mzm69:30-31;Mzm69:33-34;",
+                    "text": "Mzm. 69:15-16,30-31,33-34"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mat14:1-12;",
+                    "text": "Mat. 14:1-12"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ayb42:7-17;",
+                    "text": "BcO Ayb. 42:7-17"
+                }
+            ]
+        }
+    },
+    {
+        "date": 1659200400000,
+        "localDate": "31 Juli 2022",
+        "url": "https://www.imankatolik.or.id/kalender/31Jul.html",
+        "name": "Hari Minggu XVIII Biasa",
+        "dayColor": "#ff0000",
+        "dayType": "hariRaya",
+        "color": "hijau",
+        "readings": {
+            "innerHTML": "<a href=\"/alkitabq.php?q=Pkh1:2;Pkh2:21-23;\" target=\"_blank\">Pkh. 1:2; 2:21-23</a>; <a href=\"/alkitabq.php?q=Mzm90:3-4;Mzm90:5-6;Mzm90:12-13;Mzm90:14;Mzm90:17;\" target=\"_blank\">Mzm. 90:3-4,5-6,12-13,14,17</a>; <a href=\"/alkitabq.php?q=Kol3:1-5;Kol3:9-11;\" target=\"_blank\">Kol. 3:1-5.9-11</a>; <a href=\"/alkitabq.php?q=Luk12:13-21;\" target=\"_blank\">Luk. 12:13-21</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ob1:1-21;\" target=\"_blank\">Ob. 1-21</a>.",
+            "links": [
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Pkh1:2;Pkh2:21-23;",
+                    "text": "Pkh. 1:2; 2:21-23"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Mzm90:3-4;Mzm90:5-6;Mzm90:12-13;Mzm90:14;Mzm90:17;",
+                    "text": "Mzm. 90:3-4,5-6,12-13,14,17"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Kol3:1-5;Kol3:9-11;",
+                    "text": "Kol. 3:1-5.9-11"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Luk12:13-21;",
+                    "text": "Luk. 12:13-21"
+                },
+                {
+                    "url": "https://www.imankatolik.or.id/alkitabq.php?q=Ob1:1-21;",
+                    "text": "BcO Ob. 1-21"
+                }
+            ]
+        }
+    }
+]

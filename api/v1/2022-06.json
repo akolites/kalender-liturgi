@@ -1,6 +1,6 @@
 [
     {
-        "date": "2022-06-01T00:00:00.000Z",
+        "date": 1654016400000,
         "localDate": "1 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/1Jun.html",
         "name": "Peringatan Wajib St. Yustinus",
@@ -30,7 +30,7 @@
         }
     },
     {
-        "date": "2022-06-02T00:00:00.000Z",
+        "date": 1654102800000,
         "localDate": "2 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/2Jun.html",
         "name": "Peringatan fakultatif St. Marselinus dan Petrus",
@@ -60,7 +60,7 @@
         }
     },
     {
-        "date": "2022-06-03T00:00:00.000Z",
+        "date": 1654189200000,
         "localDate": "3 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/3Jun.html",
         "name": "Peringatan Wajib St. Karolus Lwanga dkk",
@@ -90,7 +90,7 @@
         }
     },
     {
-        "date": "2022-06-04T00:00:00.000Z",
+        "date": 1654275600000,
         "localDate": "4 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/4Jun.html",
         "name": "Hari Biasa Hari Sabtu Imam",
@@ -120,12 +120,12 @@
         }
     },
     {
-        "date": "2022-06-05T00:00:00.000Z",
+        "date": 1654362000000,
         "localDate": "5 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/5Jun.html",
         "name": "HARI RAYA PENTAKOSTA",
         "dayColor": "#ff0000",
-        "dayType": "minggu",
+        "dayType": "hariRaya",
         "color": "merah",
         "readings": {
             "innerHTML": "<a href=\"/alkitabq.php?q=Kis2:1-11;\" target=\"_blank\">Kis. 2:1-11</a>; <a href=\"/alkitabq.php?q=Mzm104:1;Mzm104:24;Mzm104:29-30;Mzm104:31;Mzm104:34;\" target=\"_blank\">Mzm. 104:1ab,24ac,29c-30,31,34</a>; <a href=\"/alkitabq.php?q=Rm8:8-17;\" target=\"_blank\">Rm. 8:8-17</a>; <a href=\"/alkitabq.php?q=Yoh14:15-16;Yoh14:23-26;\" target=\"_blank\">Yoh. 14:15-16,23b-26</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Rm8:5-27;\" target=\"_blank\">Rm. 8:5-27</a>",
@@ -154,7 +154,7 @@
         }
     },
     {
-        "date": "2022-06-06T00:00:00.000Z",
+        "date": 1654448400000,
         "localDate": "6 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/6Jun.html",
         "name": "Peringatan Wajib Santa Perawan Maria Bunda Gereja",
@@ -184,7 +184,7 @@
         }
     },
     {
-        "date": "2022-06-07T00:00:00.000Z",
+        "date": 1654534800000,
         "localDate": "7 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/7Jun.html",
         "name": "Hari Biasa",
@@ -214,7 +214,7 @@
         }
     },
     {
-        "date": "2022-06-08T00:00:00.000Z",
+        "date": 1654621200000,
         "localDate": "8 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/8Jun.html",
         "name": "Hari Biasa",
@@ -244,7 +244,7 @@
         }
     },
     {
-        "date": "2022-06-09T00:00:00.000Z",
+        "date": 1654707600000,
         "localDate": "9 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/9Jun.html",
         "name": "Peringatan fakultatif St. Efrem",
@@ -274,7 +274,7 @@
         }
     },
     {
-        "date": "2022-06-10T00:00:00.000Z",
+        "date": 1654794000000,
         "localDate": "10 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/10Jun.html",
         "name": "Hari Biasa",
@@ -304,7 +304,7 @@
         }
     },
     {
-        "date": "2022-06-11T00:00:00.000Z",
+        "date": 1654880400000,
         "localDate": "11 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/11Jun.html",
         "name": "Peringatan Wajib St. Barnabas Rasul",
@@ -334,12 +334,12 @@
         }
     },
     {
-        "date": "2022-06-12T00:00:00.000Z",
+        "date": 1654966800000,
         "localDate": "12 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/12Jun.html",
         "name": "HARI RAYA TRITUNGGAL MAHAKUDUS",
         "dayColor": "#ff0000",
-        "dayType": "minggu",
+        "dayType": "hariRaya",
         "color": "putih",
         "readings": {
             "innerHTML": "<a href=\"/alkitabq.php?q=Ams8:22-31;\" target=\"_blank\">Ams. 8:22-31</a>; <a href=\"/alkitabq.php?q=Mzm8:4-5;Mzm8:6-7;Mzm8:8-9;\" target=\"_blank\">Mzm. 8:4-5,6-7,8-9</a>; <a href=\"/alkitabq.php?q=Rm5:1-5;\" target=\"_blank\">Rm. 5:1-5</a>; <a href=\"/alkitabq.php?q=Yoh16:12-15;\" target=\"_blank\">Yoh. 16:12-15</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Ef1:1-14;\" target=\"_blank\">Ef 1:1-14</a> atau <a href=\"/alkitabq.php?q=1Kor2:1-16;\" target=\"_blank\">1Kor 2:1-16</a>",
@@ -368,7 +368,7 @@
         }
     },
     {
-        "date": "2022-06-13T00:00:00.000Z",
+        "date": 1655053200000,
         "localDate": "13 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/13Jun.html",
         "name": "Peringatan Wajib St. Antonius dr Padua",
@@ -398,7 +398,7 @@
         }
     },
     {
-        "date": "2022-06-14T00:00:00.000Z",
+        "date": 1655139600000,
         "localDate": "14 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/14Jun.html",
         "name": "Hari Biasa",
@@ -428,7 +428,7 @@
         }
     },
     {
-        "date": "2022-06-15T00:00:00.000Z",
+        "date": 1655226000000,
         "localDate": "15 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/15Jun.html",
         "name": "Hari Biasa",
@@ -458,7 +458,7 @@
         }
     },
     {
-        "date": "2022-06-16T00:00:00.000Z",
+        "date": 1655312400000,
         "localDate": "16 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/16Jun.html",
         "name": "Hari Biasa",
@@ -488,7 +488,7 @@
         }
     },
     {
-        "date": "2022-06-17T00:00:00.000Z",
+        "date": 1655398800000,
         "localDate": "17 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/17Jun.html",
         "name": "Hari Biasa",
@@ -518,7 +518,7 @@
         }
     },
     {
-        "date": "2022-06-18T00:00:00.000Z",
+        "date": 1655485200000,
         "localDate": "18 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/18Jun.html",
         "name": "Hari Biasa",
@@ -548,12 +548,12 @@
         }
     },
     {
-        "date": "2022-06-19T00:00:00.000Z",
+        "date": 1655571600000,
         "localDate": "19 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/19Jun.html",
         "name": "HARI RAYA TUBUH DAN DARAH KRISTUS",
         "dayColor": "#ff0000",
-        "dayType": "minggu",
+        "dayType": "hariRaya",
         "color": "putih",
         "readings": {
             "innerHTML": "<a href=\"/alkitabq.php?q=Kej14:18-20;\" target=\"_blank\">Kej. 14:18-20</a>; <a href=\"/alkitabq.php?q=Mzm110:1;Mzm110:2;Mzm110:3;Mzm110:4;\" target=\"_blank\">Mzm. 110:1,2,3,4</a>; <a href=\"/alkitabq.php?q=1Kor11:23-26;\" target=\"_blank\">1Kor. 11:23-26</a>; <a href=\"/alkitabq.php?q=Luk9:11-17;\" target=\"_blank\">Luk. 9:11b-17</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Rm5:1-21;\" target=\"_blank\">Rm. 5:1-21</a> atau <a href=\"/alkitabq.php?q=Kel24:1-11;\" target=\"_blank\">Kel. 24:1-11</a>",
@@ -582,7 +582,7 @@
         }
     },
     {
-        "date": "2022-06-20T00:00:00.000Z",
+        "date": 1655658000000,
         "localDate": "20 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/20Jun.html",
         "name": "Hari Biasa",
@@ -612,7 +612,7 @@
         }
     },
     {
-        "date": "2022-06-21T00:00:00.000Z",
+        "date": 1655744400000,
         "localDate": "21 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/21Jun.html",
         "name": "Peringatan Wajib St. Aloisius Gonzaga",
@@ -642,7 +642,7 @@
         }
     },
     {
-        "date": "2022-06-22T00:00:00.000Z",
+        "date": 1655830800000,
         "localDate": "22 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/22Jun.html",
         "name": "Peringatan fakultatif St. Paulinus dr Nola, St. Yohanes Fisher, St. Tomas More",
@@ -672,7 +672,7 @@
         }
     },
     {
-        "date": "2022-06-23T00:00:00.000Z",
+        "date": 1655917200000,
         "localDate": "23 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/23Jun.html",
         "name": "HARI RAYA KELAHIRAN St. YOHANES PEMBAPTIS",
@@ -706,7 +706,7 @@
         }
     },
     {
-        "date": "2022-06-24T00:00:00.000Z",
+        "date": 1656003600000,
         "localDate": "24 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/24Jun.html",
         "name": "HARI RAYA HATI YESUS YANG MAHAKUDUS",
@@ -740,7 +740,7 @@
         }
     },
     {
-        "date": "2022-06-25T00:00:00.000Z",
+        "date": 1656090000000,
         "localDate": "25 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/25Jun.html",
         "name": "Peringatan Wajib Hati Tak Bernoda Santa Perawaran Maria",
@@ -770,12 +770,12 @@
         }
     },
     {
-        "date": "2022-06-26T00:00:00.000Z",
+        "date": 1656176400000,
         "localDate": "26 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/26Jun.html",
         "name": "Hari Minggu Biasa XIII",
         "dayColor": "#ff0000",
-        "dayType": "minggu",
+        "dayType": "hariRaya",
         "color": "hijau",
         "readings": {
             "innerHTML": "<a href=\"/alkitabq.php?q=1Raj19:16;1Raj19:19-21;\" target=\"_blank\">1Raj 19:16b,19-21</a>; <a href=\"/alkitabq.php?q=Mzm16:1-2;Mzm16:5;Mzm16:7-8;Mzm16:9-10;Mzm16:11;\" target=\"_blank\">Mzm 16:1-2a,5,7-8,9-10,11</a>; <a href=\"/alkitabq.php?q=Gal5:1;Gal5:13-18;\" target=\"_blank\">Gal 5:1,13-18</a>; <a href=\"/alkitabq.php?q=Luk9:51-62;\" target=\"_blank\">Luk. 9:51-62</a>. <br>\nBcO <a href=\"/alkitabq.php?q=Neh4:1-23;\" target=\"_blank\">Neh 4:1-23</a>",
@@ -804,7 +804,7 @@
         }
     },
     {
-        "date": "2022-06-27T00:00:00.000Z",
+        "date": 1656262800000,
         "localDate": "27 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/27Jun.html",
         "name": "Peringatan fakultatif St. Sirilus dr Aleksandria",
@@ -834,7 +834,7 @@
         }
     },
     {
-        "date": "2022-06-28T00:00:00.000Z",
+        "date": 1656349200000,
         "localDate": "28 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/28Jun.html",
         "name": "Peringatan Wajib St. Ireneus",
@@ -880,7 +880,7 @@
         }
     },
     {
-        "date": "2022-06-29T00:00:00.000Z",
+        "date": 1656435600000,
         "localDate": "29 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/29Jun.html",
         "name": "HARI RAYA St. PETRUS dan St. PAULUS Rasul",
@@ -914,7 +914,7 @@
         }
     },
     {
-        "date": "2022-06-30T00:00:00.000Z",
+        "date": 1656522000000,
         "localDate": "30 Juni 2022",
         "url": "https://www.imankatolik.or.id/kalender/30Jun.html",
         "name": "Peringatan fakultatif Para Martir Pertama di Roma",
